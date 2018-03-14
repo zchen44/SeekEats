@@ -2,16 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>72874339-c02a-4f56-a97c-308b31f88ced</ProjectGuid>
-    <ProjectHome>
-    </ProjectHome>
-    <StartupFile>start.py</StartupFile>
+    <ProjectGuid>70d1a42b-ceb4-4db5-b659-ab956d3649e8</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>SeekEats.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>SeekEats</Name>
-    <RootNamespace>PythonApplication1</RootNamespace>
+    <RootNamespace>SeekEats</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -22,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="start.py" />
+    <Compile Include="SeekEats.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
