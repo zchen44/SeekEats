@@ -9,7 +9,7 @@ from google.cloud.vision import types
 client = vision.ImageAnnotatorClient()
 
 # The name of the image file to annotate
-file_name ='sushi.jpg'
+file_name ='iphone.jpg'
 
 # Loads the image into memory
 with io.open(file_name, 'rb') as image_file:
