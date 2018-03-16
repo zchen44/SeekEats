@@ -1,26 +1,10 @@
-import io
 import os
+from cloud_vision import gcp_labels
 
-# Imports the Google Cloud client library
-from google.cloud import vision
-from google.cloud.vision import types
+ROOT = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..'))
 
-# Instantiates a client
-client = vision.ImageAnnotatorClient()
-
-# The name of the image file to annotate
-file_name ='picture.jpg'
-
-# Loads the image into memory
-with io.open(file_name, 'rb') as image_file:
-    content = image_file.read()
-
-image = types.Image(content=content)
-
-# Performs label detection on the image file
-response = client.label_detection(image=image)
-labels = response.label_annotations
-
-print('Labelssss:')
-for label in labels:
-    print(label.description)
+foods = {}
+for file_name in os.listdir(os.path.join(ROOT, 'tests')):
+    if file_name.endswith(".jpg") or file_name.endswith(".png"): 
+        foods[file_name] = gcp_labels(file_name)
+print(foods)
