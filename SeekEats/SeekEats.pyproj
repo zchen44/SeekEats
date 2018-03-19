@@ -4,13 +4,17 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>70d1a42b-ceb4-4db5-b659-ab956d3649e8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>SeekEats.py</StartupFile>
+    <StartupFile>start.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>SeekEats</Name>
     <RootNamespace>SeekEats</RootNamespace>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
+    <Environment>GOOGLE_APPLICATION_CREDENTIALS=../../google_vision.json</Environment>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>

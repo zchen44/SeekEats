@@ -1,6 +1,9 @@
 import io
 import os
 
+ROOT = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..'))
+TESTS = os.path.join(ROOT, 'tests')
+
 # Imports the Google Cloud client library
 from google.cloud import vision
 from google.cloud.vision import types
@@ -12,8 +15,10 @@ client = vision.ImageAnnotatorClient()
 #file_name = 'picture.jpg'
 
 def gcp_labels(file_name):
+    """Returns the tags associated with an image"""
     # Loads the image into memory
-    with io.open(file_name, 'rb') as image_file:
+    file_location = os.path.join(TESTS, file_name)
+    with io.open(file_location, 'rb') as image_file:
         content = image_file.read()
 
     image = types.Image(content=content)
