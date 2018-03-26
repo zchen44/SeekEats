@@ -1,12 +1,14 @@
 
 import os
+import os
 from cloud_vision import gcp_labels
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..'))
 TESTS = os.path.join(ROOT, 'tests')
 
 def sort_labels():
-    """Looks through the test folder for pictures, gets the labels for each of those pictures, and then asks the user which category any unrecognized labels belong in. Results are written to a file.
+    """Looks through the test folder for pictures, gets the labels for each of those pictures, and then 
+	   asks the user which category any unrecognized labels belong in. Results are written to a file.
 
             @parameter: None
             @return: None
@@ -22,8 +24,8 @@ def sort_labels():
         not_words = fi.read().splitlines()
         fi.close()
 
-    print(words)
-    print(not_words)
+    # print(words)
+    # print(not_words)
 
     # Get the labels for the images in the folder
     print("Compiling list of tags...")
@@ -31,16 +33,18 @@ def sort_labels():
     for file_name in os.listdir(os.path.join(ROOT, 'tests')):
         if file_name.endswith(".jpg") or file_name.endswith(".png"): 
             dict = gcp_labels(file_name)
-            keylist = set(list(dict.keys())) # dictionary keys to list, list to set to remove duplicates
+            keylist = set(dict.keys()) # list to set to remove duplicates
             unsorted += keylist
+            os.rename(os.path.join(TESTS, file_name), os.path.join(TESTS, "scanned_pictures", file_name)) # Move scanned picture to another folder
 
-    # Sort labels into categories
+    # Prompts users for which list a term should belong in
     for term in unsorted:
         if (term in words) or (term in not_words):
             continue
         else:
             which = input('Is "%s" a useful food-related term? ' % (term))
 
+		# Continues asking for responses until it reaches a valid one
         while(True):
             if isYes(which):
                 words.append(term)
@@ -52,7 +56,7 @@ def sort_labels():
                 print("Invalid response. Must be True/False or Yes/No.")
                 which = input('Is "%s" a useful food-related term? ' % (term))
 
-    # Write list to file
+    # Write both lists of words to their respective files
     with open(os.path.join(TESTS, 'food_words.txt'), 'w') as fi:
         for word in words:
             fi.write(word + '\n')

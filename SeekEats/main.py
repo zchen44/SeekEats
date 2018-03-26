@@ -14,4 +14,5 @@ TESTS = os.path.join(ROOT, 'tests')
 #            # DEBUG: Exports the results into a text file
 #            fi.write(file_name + ': ' + str(foods[file_name]) + '\n')
 
-sort_labels()
+if __name__ == "__main__":
+	sort_labels()
