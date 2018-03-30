@@ -1,5 +1,5 @@
-import io
 import os
+from cloud_vision import gcp_labels
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..'))
 TESTS = os.path.join(ROOT, 'tests')
