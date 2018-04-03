@@ -1,5 +1,3 @@
-
-import os
 import os
 from cloud_vision import gcp_labels
 
@@ -8,10 +6,12 @@ TESTS = os.path.join(ROOT, 'tests')
 
 def sort_labels():
     """Looks through the test folder for pictures, gets the labels for each of those pictures, and then 
-	   asks the user which category any unrecognized labels belong in. Results are written to a file.
+	asks the user which category any unrecognized labels belong in. Results are written to a file.
 
-            @parameter: None
-            @return: None
+        Arguments:
+            None
+        Return:
+            None
     """
     # Import existing words
     print("Getting existing word lists...")

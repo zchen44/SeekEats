@@ -15,10 +15,12 @@ client = vision.ImageAnnotatorClient()
 #file_name = 'picture.jpg'
 
 def gcp_labels(file_name):
-    """Returns the tags associated with an image
+    """Returns the tags associated with an image.
     
-            @parameter: The name of the file to be scanned
-            @return: A dictionary of tags and confidences assigned to that picture
+        Arguments:
+            file_name <string> - The name of the image to be scanned.
+        Return:
+            A dictionary of tags and confidences assigned to that picture
     """
     # Loads the image into memory
     file_location = os.path.join(TESTS, file_name)

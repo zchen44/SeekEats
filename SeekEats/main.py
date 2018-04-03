@@ -17,5 +17,5 @@ TESTS = os.path.join(ROOT, 'tests')
 
 if __name__ == "__main__":
 	#sort_labels()
-    businesses = query_api('Pasta','New York, NY')
+    businesses = query_api('pasta', 'New York, NY')
     print(businesses)
