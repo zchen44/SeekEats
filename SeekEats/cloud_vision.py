@@ -44,3 +44,13 @@ def gcp_labels(file_name):
         results[label.description] = label.score
 
     return results
+
+def getTags(path):
+    """Gets the tags for every picture within a folder. Outputs tags to a file inside that folder.
+    
+        Arguments:
+            path <string> - The path of the folder that contains pictures
+        Return:
+            A dictionary with the filename as a key and the dictionary of tags and confidence values as the value.
+
+    """
