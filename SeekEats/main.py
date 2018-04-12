@@ -1,4 +1,5 @@
 import os
+from cloud_vision import image_labels
 from yelpapi import query_api
 #from cloud_vision import gcp_labels
 from sorter import sort_labels
@@ -16,6 +17,9 @@ TESTS = os.path.join(ROOT, 'tests')
 #            fi.write(file_name + ': ' + str(foods[file_name]) + '\n')
 
 if __name__ == "__main__":
-	sort_labels()
+    #print("Gathering labels.")
+    #image_labels()
+    input("Sorting begins.")
+    sort_labels()
     #businesses = query_api('Pasta','New York, NY')
     #print(businesses)
