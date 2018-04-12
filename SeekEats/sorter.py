@@ -1,5 +1,5 @@
 import os
-import cloud_vision
+from cloud_vision import gcp_labels
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..'))
 TESTS = os.path.join(ROOT, 'tests')
@@ -45,9 +45,6 @@ def sort_labels():
             which = input('Is "%s" a useful food-related term? ' % (term))
 
 		# Continues asking for responses until it reaches a valid one
-        if isStop(which):
-            break
-
         while(True):
             if isYes(which):
                 words.append(term)
@@ -70,6 +67,7 @@ def sort_labels():
         fi.close()
     input("Program is complete.")
 
+
 def isYes(word):
     words = ["true", "yes", "y"]
     if (word.strip(' ,.!?').lower() in words):
@@ -79,13 +77,6 @@ def isYes(word):
 
 def isNo(word):
     words = ["false", "no", "n"]
-    if (word.strip(' ,.!?').lower() in words):
-        return True
-    else:
-        return False
-
-def isStop(word):
-    words = ["quit", "exit", "stop", "q"]
     if (word.strip(' ,.!?').lower() in words):
         return True
     else:

@@ -152,4 +152,4 @@ vegan
 vegetarian
 vietnamese
 waffles
-wraps
+Wraps (wraps)
