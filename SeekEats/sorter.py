@@ -30,15 +30,21 @@ def sort_labels():
     # Get the labels for the images in the folder
     print("Compiling list of tags...")
     unsorted = []
-    for file_name in os.listdir(os.path.join(ROOT, 'tests')):
-        if file_name.endswith(".jpg") or file_name.endswith(".png"): 
-            dict = gcp_labels(file_name)
-            keylist = set(dict.keys()) # list to set to remove duplicates
-            unsorted += keylist
-            os.rename(os.path.join(TESTS, file_name), os.path.join(TESTS, "scanned_pictures", file_name)) # Move scanned picture to another folder
+    with open(os.path.join(TESTS, "total_tags.txt"), 'r') as fi:
+        for line in fi:
+            unsorted.append(line)
+        fi.close()
+
+    #for file_name in os.listdir(os.path.join(root, 'tests')):
+        #if file_name.endswith(".jpg") or file_name.endswith(".png"): 
+        #    dict = gcp_labels(file_name)
+        #    keylist = set(dict.keys()) # list to set to remove duplicates
+        #    unsorted += keylist
+        #    os.rename(os.path.join(tests, file_name), os.path.join(tests, "scanned_pictures", file_name)) # move scanned picture to another folder
 
     # Prompts users for which list a term should belong in
     for term in unsorted:
+        term = term.strip()
         if (term in words) or (term in not_words):
             continue
         else:
