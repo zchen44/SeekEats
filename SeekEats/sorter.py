@@ -35,12 +35,12 @@ def sort_labels():
             unsorted.append(line)
         fi.close()
 
-    #for file_name in os.listdir(os.path.join(root, 'tests')):
-        #if file_name.endswith(".jpg") or file_name.endswith(".png"): 
-        #    dict = gcp_labels(file_name)
-        #    keylist = set(dict.keys()) # list to set to remove duplicates
-        #    unsorted += keylist
-        #    os.rename(os.path.join(tests, file_name), os.path.join(tests, "scanned_pictures", file_name)) # move scanned picture to another folder
+    for file_name in os.listdir(os.path.join(ROOT, 'tests')):
+        if file_name.endswith(".jpg") or file_name.endswith(".png"): 
+            dict = gcp_labels(file_name)
+            keylist = set(dict.keys()) # list to set to remove duplicates
+            unsorted += keylist
+            os.rename(os.path.join(tests, file_name), os.path.join(tests, "scanned_pictures", file_name)) # move scanned picture to another folder
 
     # Prompts users for which list a term should belong in
     for term in unsorted:
@@ -49,18 +49,35 @@ def sort_labels():
             continue
         else:
             which = input('Is "%s" a useful food-related term? ' % (term))
+            checkWord = checkInput(which)
 
 		# Continues asking for responses until it reaches a valid one
-        while(True):
-            if isYes(which):
-                words.append(term)
-                break
-            elif isNo(which):
-                not_words.append(term)
-                break
-            else:
-                print("Invalid response. Must be True/False or Yes/No.")
-                which = input('Is "%s" a useful food-related term? ' % (term))
+        #while(True):
+        #    if isYes(which):
+        #        words.append(term)
+        #        break
+        #    elif isNo(which):
+        #        not_words.append(term)
+        #        break
+        #    elif isQuit(which):
+        #        print("Saving status.")
+        #        print("Exiting.")
+        #        exit()
+        #    else:
+        #        print("Invalid response. Must be True/False or Yes/No.")
+        #        which = input('Is "%s" a useful food-related term? ' % (term))
+
+        while(checkWord == 0):
+            print("Invalid response. Must be True/False or Yes/No.")
+            which = input('Is "%s" a useful food-related term? ' % (term))
+            checkWord = checkInput(which)
+        if(checkWord == 1):
+            words.append(term)
+        elif(checkWord == 2):
+            not_words.append(term)
+        else:
+            print("Exiting sorter.")
+            break
 
     # Write both lists of words to their respective files
     with open(os.path.join(TESTS, 'food_words.txt'), 'w') as fi:
@@ -74,16 +91,39 @@ def sort_labels():
     input("Program is complete.")
 
 
-def isYes(word):
-    words = ["true", "yes", "y"]
-    if (word.strip(' ,.!?').lower() in words):
-        return True
-    else:
-        return False
+#def isYes(word):
+#    words = ["true", "yes", "y"]
+#    if (word.strip(' ,.!?').lower() in words):
+#        return True
+#    else:
+#        return False
 
-def isNo(word):
-    words = ["false", "no", "n"]
-    if (word.strip(' ,.!?').lower() in words):
-        return True
+#def isNo(word):
+#    words = ["false", "no", "n"]
+#    if (word.strip(' ,.!?').lower() in words):
+#        return True
+#    else:
+#        return False
+
+#def isQuit(word):
+#    words = ["quit", "stop", "exit", "q"]
+#    if (word.strip(' ,.!?').lower() in words):
+#        return True
+#    else:
+#        return False
+
+def checkInput(word):
+    quit = ["quit", "stop", "exit", "q"]
+    yes = ["true", "yes", "y"]
+    no = ["false", "no", "n"]
+
+    word = word.strip(' ,.!?').lower()
+
+    if (word in quit):
+        return -1
+    elif (word in yes):
+        return 1
+    elif (word in no):
+        return 2
     else:
-        return False
+        return 0

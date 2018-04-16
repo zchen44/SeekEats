@@ -48,9 +48,11 @@ def gcp_labels(file_path):
   # Get the labels for the images in the folder
 def image_labels():
     """Scans all pictures in the  Returns a dictionary of files and the tags associated with it.
-         
-             @parameter: folder of images to be scanned 
-             @return: dictionary of tags
+    
+        Arguments:
+            None, the folders to be scanned are hardcoded.
+        Return:
+            None, the information is written to files.
     """
     master = []
     file_tags = {}
@@ -70,7 +72,6 @@ def image_labels():
     #            os.rename(os.path.join(TESTS, file_name), os.path.join(TESTS, "scanned_pictures", file_name)) # Move scanned picture to another folder
 
     master = list(set(master)) # list to set to remove duplicates
-
     if not master:
         return
     with open(os.path.join(TESTS, "file_tag_dict.txt"), 'w') as fi:
@@ -78,5 +79,5 @@ def image_labels():
         fi.close()
     with open(os.path.join(TESTS, "total_tags.txt") , 'wb') as fi:
         for tag in master:
-            fi.write((tag + '\n').encode('utf8'))
+            fi.write((tag + '\n').encode('utf8')) # A few tags have non-ASCII characters
         fi.close()
