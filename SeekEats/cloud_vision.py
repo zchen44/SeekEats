@@ -34,7 +34,7 @@ def gcp_labels(file_path):
     labels = response.label_annotations
 
     # Print labels
-    #print('Labelssss:')
+    #print('Labels:')
     #for label in labels:  
     #    print(label.description)
 
