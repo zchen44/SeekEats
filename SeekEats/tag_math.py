@@ -80,7 +80,9 @@ def category_match(tags):
     matches = {}
     for category in categories:
         match = cat_similar(tags, categories[category])
-        matches[category] = match
+
+        if match:
+            matches[category] = match
 
     return matches
 

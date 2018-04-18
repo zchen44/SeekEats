@@ -90,6 +90,16 @@ def sort_labels():
         fi.close()
     input("Program is complete.")
 
+def special_list_sort():
+    """Looks through the list of food related tags, and seperates the ones that are special
+
+        Arguments:
+            None
+        Return:
+            None
+    """
+
+
 
 #def isYes(word):
 #    words = ["true", "yes", "y"]
