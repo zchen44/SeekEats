@@ -1,0 +1,2672 @@
+Correct answer: afghani1.jpg
+Original search: dish
+New search: "mixed grill" , Category - falafel
+
+Correct answer: afghani2.jpg
+Original search: dish
+New search: "manti" , Category - pizza
+
+Correct answer: afghani3.jpg
+Original search: dish
+New search: , Category - pakistani
+
+Correct answer: afghani4.jpg
+Original search: dish
+New search: , Category - afghani
+
+Correct answer: afghani5.jpg
+Original search: dish
+New search: , Category - newmexican
+
+Correct answer: african1.jpg
+Original search: dish
+New search: "rice" "white rice" , Category - hainan
+
+Correct answer: african10.jpg
+Original search: dish
+New search: "shish taouk" , Category - izakaya
+
+Correct answer: african11.jpg
+Original search: dish
+New search: , Category - bbq
+
+Correct answer: african12.jpg
+Original search: dish
+New search: "fried food" , Category - bbq
+
+Correct answer: african13.jpg
+Original search: dish
+New search: "asian food" , Category - pakistani
+
+Correct answer: african14.jpg
+Original search: dish
+New search: "fried food" , Category - bbq
+
+Correct answer: african15.jpg
+Original search: meat
+New search: "meat" "beef" "steak" , Category - bbq
+
+Correct answer: african2.jpg
+Original search: dish
+New search: "fried food" "baked goods" , Category - comfortfood
+
+Correct answer: african3.jpg
+Original search: spaghetti
+New search: "spaghetti" , Category - pizza
+
+Correct answer: african4.jpg
+Original search: dish
+New search: "fried food" , Category - japacurry
+
+Correct answer: african5.jpg
+Original search: dish
+New search: "curry" , Category - pakistani
+
+Correct answer: african6.jpg
+Original search: dish
+New search: , Category - mideastern
+
+Correct answer: african7.jpg
+Original search: dish
+New search: "vegetarian food" , Category - breakfast_brunch
+
+Correct answer: african8.jpg
+Original search: dish
+New search: , Category - ramen
+
+Correct answer: african9.jpg
+Original search: dish
+New search: "meatball" , Category - teppanyaki
+
+Correct answer: arabian1.jpg
+Original search: dish
+New search: "curry" "stew" , Category - pakistani
+
+Correct answer: arabian2.jpg
+Original search: dish
+New search: "vegetable" , Category - salad
+
+Correct answer: arabian3.jpg
+Original search: dish
+New search: "mole sauce" , Category - arabian
+
+Correct answer: arabian4.jpg
+Original search: meal
+New search: , Category - breakfast_brunch
+
+Correct answer: arabian5.jpg
+Original search: dish
+New search: , Category - hawaiian
+
+Correct answer: argentine1.jpg
+Original search: dessert
+New search: "dessert" , Category - creperies
+
+Correct answer: argentine2.jpg
+Original search: dish
+New search: "roasting" , Category - bbq
+
+Correct answer: argentine3.jpg
+Original search: dish
+New search: "breakfast" , Category - diners
+
+Correct answer: argentine4.jpg
+Original search: dish
+New search: "risotto" , Category - pizza
+
+Correct answer: argentine5.jpg
+Original search: food
+New search: "appetizer" , Category - breakfast_brunch
+
+Correct answer: armenian1.jpg
+Original search: dish
+New search: , Category - breakfast_brunch
+
+Correct answer: armenian2.jpg
+Original search: dish
+New search: "baked beans" , Category - armenian
+
+Correct answer: armenian3.jpg
+Original search: food
+New search: "junk food" , Category - hotdog
+
+Correct answer: armenian4.jpg
+Original search: dish
+New search: "fried food" , Category - mideastern
+
+Correct answer: armenian5.jpg
+Original search: meal
+New search: , Category - breakfast_brunch
+
+Correct answer: asianfusion1.jpg
+Original search: dish
+New search: "asian food" , Category - hainan
+
+Correct answer: asianfusion2.jpg
+Original search: dish
+New search: "twice cooked pork" , Category - hkcafe
+
+Correct answer: asianfusion3.jpg
+Original search: dish
+New search: "seafood" , Category - asianfusion
+
+Correct answer: asianfusion4.jpg
+Original search: dish
+New search: , Category - None
+
+Correct answer: asianfusion5.jpg
+Original search: dish
+New search: , Category - hotpot
+
+Correct answer: australian1.jpg
+Original search: dish
+New search: "seafood" , Category - cajun
+
+Correct answer: australian2.jpg
+Original search: dish
+New search: , Category - breakfast_brunch
+
+Correct answer: australian3.jpg
+Original search: dish
+New search: "seafood" , Category - cajun
+
+Correct answer: australian4.jpg
+Original search: meal
+New search: , Category - breakfast_brunch
+
+Correct answer: australian5.jpg
+Original search: dish
+New search: "seafood" , Category - cajun
+
+Correct answer: austrian1.jpg
+Original search: dish
+New search: "hayashi rice" , Category - pakistani
+
+Correct answer: austrian2.jpg
+Original search: dish
+New search: , Category - breakfast_brunch
+
+Correct answer: austrian3.jpg
+Original search: food
+New search: "brunch" , Category - diners
+
+Correct answer: austrian4.jpg
+Original search: dessert
+New search: "dessert" "ice cream" "frozen dessert" , Category - creperies
+
+Correct answer: austrian5.jpg
+Original search: dish
+New search: "fried food" , Category - diners
+
+Correct answer: bangladeshi1.jpg
+Original search: dish
+New search: "leaf vegetable" "romeritos" , Category - salad
+
+Correct answer: bangladeshi2.jpg
+Original search: dish
+New search: "curry" , Category - pakistani
+
+Correct answer: bangladeshi3.jpg
+Original search: dish
+New search: "curry" "indian cuisine" , Category - pakistani
+
+Correct answer: bangladeshi4.jpg
+Original search: food
+New search: , Category - None
+
+Correct answer: bangladeshi5.jpg
+Original search: dish
+New search: "fried food" , Category - noodles
+
+Correct answer: basque1.jpg
+Original search: food
+New search: "appetizer" "dessert" , Category - greek
+
+Correct answer: basque2.jpg
+Original search: dish
+New search: "meat" , Category - bbq
+
+Correct answer: basque3.jpg
+Original search: meat
+New search: "meat" "appetizer" , Category - basque
+
+Correct answer: basque4.jpg
+Original search: food
+New search: , Category - tacos
+
+Correct answer: basque5.jpg
+Original search: dish
+New search: "vegetarian food" "appetizer" , Category - falafel
+
+Correct answer: bbq1.jpg
+Original search: meat
+New search: "meat" "steak" , Category - bbq
+
+Correct answer: bbq2.jpg
+Original search: food
+New search: , Category - bbq
+
+Correct answer: bbq3.jpg
+Original search: meat
+New search: "meat" "beef" "brisket" , Category - bbq
+
+Correct answer: bbq4.jpg
+Original search: dish
+New search: , Category - diners
+
+Correct answer: bbq5.jpg
+Original search: food
+New search: "meat" , Category - bbq
+
+Correct answer: belgian1.jpg
+Original search: dish
+New search: "junk food" , Category - fishnchips
+
+Correct answer: belgian2.jpg
+Original search: dish
+New search: "brunch" , Category - breakfast_brunch
+
+Correct answer: belgian3.jpg
+Original search: food
+New search: "meat" , Category - belgian
+
+Correct answer: belgian4.jpg
+Original search: food
+New search: , Category - diners
+
+Correct answer: belgian5.jpg
+Original search: dish
+New search: "meat" , Category - bbq
+
+Correct answer: brazilian1.jpg
+Original search: dish
+New search: "asian food" , Category - burmese
+
+Correct answer: brazilian2.jpg
+Original search: dish
+New search: "fried food" , Category - southern
+
+Correct answer: brazilian3.jpg
+Original search: dish
+New search: , Category - hotpot
+
+Correct answer: brazilian4.jpg
+Original search: dish
+New search: , Category - breakfast_brunch
+
+Correct answer: brazilian5.jpg
+Original search: meal
+New search: , Category - breakfast_brunch
+
+Correct answer: breakfast_brunch1.jpg
+Original search: dish
+New search: "breakfast" "brunch" , Category - breakfast_brunch
+
+Correct answer: breakfast_brunch2.jpg
+Original search: dish
+New search: "appetizer" , Category - breakfast_brunch
+
+Correct answer: breakfast_brunch3.jpg
+Original search: dish
+New search: "breakfast" , Category - breakfast_brunch
+
+Correct answer: breakfast_brunch4.jpg
+Original search: dish
+New search: "leaf vegetable" , Category - breakfast_brunch
+
+Correct answer: breakfast_brunch5.jpg
+Original search: meal
+New search: "brunch" , Category - breakfast_brunch
+
+Correct answer: british1.jpg
+Original search: dish
+New search: "fish and chips" "fried food" , Category - fishnchips
+
+Correct answer: british2.jpg
+Original search: dish
+New search: , Category - fishnchips
+
+Correct answer: british3.jpg
+Original search: dish
+New search: "meat" , Category - bbq
+
+Correct answer: british4.jpg
+Original search: dish
+New search: "european food" , Category - pizza
+
+Correct answer: british5.jpg
+Original search: dessert
+New search: "dessert" "spotted dick" "pudding" , Category - creperies
+
+Correct answer: buffets1.jpg
+Original search: food
+New search: , Category - buffets
+
+Correct answer: buffets2.jpg
+Original search: meal
+New search: , Category - buffets
+
+Correct answer: buffets3.jpg
+Original search: food
+New search: "buffet" , Category - buffets
+
+Correct answer: buffets4.jpg
+Original search: food
+New search: "buffet" , Category - buffets
+
+Correct answer: buffets5.jpg
+Original search: meal
+New search: "buffet" , Category - buffets
+
+Correct answer: burgers1.jpg
+Original search: hamburger
+New search: "hamburger" "fast food" "veggie burger" "breakfast sandwich" , Category - burgers
+
+Correct answer: burgers2.jpg
+Original search: hamburger
+New search: "hamburger" "fast food" "cheeseburger" , Category - burgers
+
+Correct answer: burgers3.jpg
+Original search: food
+New search: "brunch" "breakfast" , Category - diners
+
+Correct answer: burgers4.jpg
+Original search: food
+New search: "fast food" , Category - burgers
+
+Correct answer: burgers5.jpg
+Original search: food
+New search: "brunch" , Category - breakfast_brunch
+
+Correct answer: burmese1.jpg
+Original search: dish
+New search: "noodle" , Category - burmese
+
+Correct answer: burmese2.jpg
+Original search: dish
+New search: "mie goreng" , Category - burmese
+
+Correct answer: burmese3.jpg
+Original search: dish
+New search: "curry" "soup" , Category - burmese
+
+Correct answer: burmese4.jpg
+Original search: dish
+New search: , Category - burmese
+
+Correct answer: burmese5.jpg
+Original search: meal
+New search: , Category - pakistani
+
+Correct answer: cajun1.jpg
+Original search: dish
+New search: "rice" , Category - guamanian
+
+Correct answer: cajun2.jpg
+Original search: dish
+New search: "seafood" "shrimp" , Category - cajun
+
+Correct answer: cajun3.jpg
+Original search: seafood
+New search: "seafood" "cajun food" , Category - cajun
+
+Correct answer: cajun4.jpg
+Original search: food
+New search: "appetizer" , Category - hotdog
+
+Correct answer: cajun5.jpg
+Original search: food
+New search: "seafood" , Category - cajun
+
+Correct answer: calabrian1.jpg
+Original search: food
+New search: "danish pastry" "baked goods" , Category - creperies
+
+Correct answer: calabrian2.jpg
+Original search: breakfast
+New search: "breakfast" , Category - waffle
+
+Correct answer: calabrian3.jpg
+Original search: dish
+New search: "pizza" , Category - pizza
+
+Correct answer: calabrian4.jpg
+Original search: dessert
+New search: "dessert" "frozen dessert" "dairy product" , Category - creperies
+
+Correct answer: calabrian5.jpg
+Original search: pizza
+New search: "pizza" "pepperoni" , Category - pizza
+
+Correct answer: cambodian1.jpg
+Original search: dish
+New search: "vegetarian food" , Category - salad
+
+Correct answer: cambodian2.jpg
+Original search: dish
+New search: "asian food" , Category - cantonese
+
+Correct answer: cambodian3.jpg
+Original search: dish
+New search: "noodle soup" , Category - burmese
+
+Correct answer: cambodian4.jpg
+Original search: food
+New search: "appetizer" , Category - cambodian
+
+Correct answer: cambodian5.jpg
+Original search: food
+New search: , Category - ramen
+
+Correct answer: cantonese1.jpg
+Original search: dish
+New search: "asian food" , Category - dimsum
+
+Correct answer: cantonese2.jpg
+Original search: moo goo gai pan
+New search: "moo goo gai pan" , Category - cantonese
+
+Correct answer: cantonese3.jpg
+Original search: dish
+New search: "seafood" , Category - cantonese
+
+Correct answer: cantonese4.jpg
+Original search: meal
+New search: , Category - cantonese
+
+Correct answer: cantonese5.jpg
+Original search: food
+New search: , Category - salad
+
+Correct answer: caribbean1.jpg
+Original search: dish
+New search: "curry" , Category - pakistani
+
+Correct answer: caribbean2.jpg
+Original search: dish
+New search: "mole sauce" , Category - bbq
+
+Correct answer: caribbean3.jpg
+Original search: dish
+New search: "white rice" "steamed rice" , Category - hainan
+
+Correct answer: caribbean4.jpg
+Original search: dish
+New search: "fried food" , Category - japacurry
+
+Correct answer: caribbean5.jpg
+Original search: meal
+New search: , Category - breakfast_brunch
+
+Correct answer: chinese1.jpg
+Original search: dish
+New search: "meat" , Category - hotpot
+
+Correct answer: chinese2.jpg
+Original search: dish
+New search: "beef chow fun" , Category - hkcafe
+
+Correct answer: chinese3.jpg
+Original search: dish
+New search: "chinese food" "noodle" , Category - hkcafe
+
+Correct answer: chinese4.jpg
+Original search: dish
+New search: "soup" , Category - noodles
+
+Correct answer: chinese5.jpg
+Original search: dish
+New search: "congee" "soup" , Category - chinese
+
+Correct answer: colombian1.jpg
+Original search: meal
+New search: "breakfast" , Category - diners
+
+Correct answer: colombian2.jpg
+Original search: food
+New search: "appetizer" , Category - falafel
+
+Correct answer: colombian3.jpg
+Original search: dish
+New search: "vegetarian food" , Category - fishnchips
+
+Correct answer: colombian4.jpg
+Original search: dish
+New search: , Category - diners
+
+Correct answer: colombian5.jpg
+Original search: dish
+New search: , Category - diners
+
+Correct answer: comfortfood1.jpg
+Original search: dish
+New search: "fried food" , Category - fishnchips
+
+Correct answer: comfortfood2.jpg
+Original search: pumpkin bread
+New search: "pumpkin bread" "fried food" , Category - comfortfood
+
+Correct answer: comfortfood3.jpg
+Original search: dish
+New search: , Category - diners
+
+Correct answer: comfortfood4.jpg
+Original search: dish
+New search: , Category - breakfast_brunch
+
+Correct answer: comfortfood5.jpg
+Original search: dish
+New search: "american food" , Category - comfortfood
+
+Correct answer: creperies1.jpg
+Original search: dessert
+New search: "dessert" "frozen dessert" , Category - creperies
+
+Correct answer: creperies2.jpg
+Original search: dessert
+New search: "dessert" "frozen dessert" "whipped cream" , Category - creperies
+
+Correct answer: creperies3.jpg
+Original search: food
+New search: "torte" "dessert" , Category - creperies
+
+Correct answer: creperies4.jpg
+Original search: dessert
+New search: "dessert" "baked goods" , Category - creperies
+
+Correct answer: creperies5.jpg
+Original search: dessert
+New search: "dessert" "chocolate" "frozen dessert" "fudge" , Category - creperies
+
+Correct answer: cuban1.jpg
+Original search: food
+New search: "sandwich" "junk food" , Category - fishnchips
+
+Correct answer: cuban2.jpg
+Original search: dish
+New search: "sandwich" , Category - sandwiches
+
+Correct answer: cuban3.jpg
+Original search: dish
+New search: , Category - nicaraguan
+
+Correct answer: cuban4.jpg
+Original search: dessert
+New search: "dessert" , Category - creperies
+
+Correct answer: cuban5.jpg
+Original search: dish
+New search: , Category - breakfast_brunch
+
+Correct answer: czech1.jpg
+Original search: fried food
+New search: "fried food" , Category - czech
+
+Correct answer: czech2.jpg
+Original search: food
+New search: "meat" "steak" , Category - steak
+
+Correct answer: czech3.jpg
+Original search: dish
+New search: "fried food" , Category - southern
+
+Correct answer: czech4.jpg
+Original search: dish
+New search: , Category - diners
+
+Correct answer: czech5.jpg
+Original search: dish
+New search: "fried food" , Category - fishnchips
+
+Correct answer: delis1.jpg
+Original search: food
+New search: "sandwich" "roast beef" , Category - delis
+
+Correct answer: delis2.jpg
+Original search: food
+New search: "junk food" "sandwich" , Category - burgers
+
+Correct answer: delis3.jpg
+Original search: food
+New search: "sandwich" "breakfast sandwich" "pastrami" , Category - delis
+
+Correct answer: delis4.jpg
+Original search: dish
+New search: "asian food" , Category - noodles
+
+Correct answer: delis5.jpg
+Original search: fried food
+New search: "fried food" , Category - diners
+
+Correct answer: dimsum1.jpg
+Original search: dish
+New search: "dim sum" "shumai" , Category - dimsum
+
+Correct answer: dimsum2.jpg
+Original search: dish
+New search: "hiyayakko" , Category - dimsum
+
+Correct answer: dimsum3.jpg
+Original search: dish
+New search: "dim sum" , Category - dimsum
+
+Correct answer: dimsum4.jpg
+Original search: dish
+New search: "moo goo gai pan" , Category - dimsum
+
+Correct answer: dimsum5.jpg
+Original search: dish
+New search: , Category - dimsum
+
+Correct answer: diners1.jpg
+Original search: dish
+New search: "fried egg" , Category - diners
+
+Correct answer: diners2.jpg
+Original search: dish
+New search: , Category - diners
+
+Correct answer: diners3.jpg
+Original search: dish
+New search: "breakfast" "full breakfast" , Category - diners
+
+Correct answer: diners4.jpg
+Original search: meal
+New search: "breakfast" , Category - diners
+
+Correct answer: diners5.jpg
+Original search: dish
+New search: "fried food" , Category - diners
+
+Correct answer: dominican1.jpg
+Original search: dish
+New search: , Category - diners
+
+Correct answer: dominican2.jpg
+Original search: dish
+New search: "fried food" , Category - dominican
+
+Correct answer: dominican3.jpg
+Original search: dish
+New search: "appetizer" , Category - breakfast_brunch
+
+Correct answer: dominican4.jpg
+Original search: dish
+New search: "appetizer" , Category - cantonese
+
+Correct answer: dominican5.jpg
+Original search: dish
+New search: , Category - breakfast_brunch
+
+Correct answer: egyptian1.jpg
+Original search: dish
+New search: , Category - persian
+
+Correct answer: egyptian2.jpg
+Original search: dish
+New search: , Category - pakistani
+
+Correct answer: egyptian3.jpg
+Original search: dish
+New search: "white rice" "rice" , Category - hainan
+
+Correct answer: egyptian4.jpg
+Original search: food
+New search: "dessert" , Category - creperies
+
+Correct answer: egyptian5.jpg
+Original search: dessert
+New search: "dessert" "chocolate" , Category - creperies
+
+Correct answer: ethiopian1.jpg
+Original search: dish
+New search: "ethiopian food" , Category - ethiopian
+
+Correct answer: ethiopian2.jpg
+Original search: injera
+New search: "injera" , Category - ethiopian
+
+Correct answer: ethiopian3.jpg
+Original search: dish
+New search: "ethiopian food" , Category - ethiopian
+
+Correct answer: ethiopian4.jpg
+Original search: dish
+New search: , Category - nicaraguan
+
+Correct answer: ethiopian5.jpg
+Original search: food
+New search: , Category - diners
+
+Correct answer: falafel1.jpg
+Original search: dish
+New search: "korean taco" , Category - tacos
+
+Correct answer: falafel2.jpg
+Original search: dish
+New search: "falafel" , Category - falafel
+
+Correct answer: falafel3.jpg
+Original search: dish
+New search: "vegetarian food" , Category - falafel
+
+Correct answer: falafel4.jpg
+Original search: falafel
+New search: "falafel" , Category - falafel
+
+Correct answer: falafel5.jpg
+Original search: dish
+New search: "vegetarian food" , Category - falafel
+
+Correct answer: filipino1.jpg
+Original search: dish
+New search: "vegetarian food" , Category - pakistani
+
+Correct answer: filipino2.jpg
+Original search: dish
+New search: "mongolian beef" , Category - szechuan
+
+Correct answer: filipino3.jpg
+Original search: dish
+New search: "seafood" , Category - noodles
+
+Correct answer: filipino4.jpg
+Original search: meal
+New search: "brunch" "breakfast" , Category - breakfast_brunch
+
+Correct answer: filipino5.jpg
+Original search: dish
+New search: , Category - breakfast_brunch
+
+Correct answer: fishnchips1.jpg
+Original search: fried food
+New search: "fried food" "french fries" , Category - fishnchips
+
+Correct answer: fishnchips2.jpg
+Original search: fried food
+New search: "fried food" "junk food" , Category - fishnchips
+
+Correct answer: fishnchips3.jpg
+Original search: junk food
+New search: "junk food" "fried food" "fish and chips" , Category - fishnchips
+
+Correct answer: fishnchips4.jpg
+Original search: dish
+New search: "fried food" "fast food" , Category - fishnchips
+
+Correct answer: fishnchips5.jpg
+Original search: food
+New search: "brunch" , Category - fishnchips
+
+Correct answer: fondue1.jpg
+Original search: dish
+New search: , Category - None
+
+Correct answer: fondue2.jpg
+Original search: tableware
+New search: , Category - breakfast_brunch
+
+Correct answer: fondue3.jpg
+Original search: dish
+New search: , Category - hotpot
+
+Correct answer: fondue4.jpg
+Original search: food
+New search: "brunch" , Category - breakfast_brunch
+
+Correct answer: fondue5.jpg
+Original search: food
+New search: "dessert" , Category - creperies
+
+Correct answer: french1.jpg
+Original search: clam
+New search: "clam" "escargot" "cockle" , Category - french
+
+Correct answer: french2.jpg
+Original search: dish
+New search: "steak" , Category - steak
+
+Correct answer: french3.jpg
+Original search: dish
+New search: "seafood" , Category - salad
+
+Correct answer: french4.jpg
+Original search: food
+New search: "vegetarian food" , Category - salad
+
+Correct answer: french5.jpg
+Original search: dish
+New search: , Category - salad
+
+Correct answer: gastropubs1.jpg
+Original search: dish
+New search: "french fries" "junk food" , Category - fishnchips
+
+Correct answer: gastropubs2.jpg
+Original search: dish
+New search: "fried food" , Category - fishnchips
+
+Correct answer: gastropubs3.jpg
+Original search: dish
+New search: "seafood" , Category - australian
+
+Correct answer: gastropubs4.jpg
+Original search: food
+New search: "brunch" "appetizer" , Category - breakfast_brunch
+
+Correct answer: gastropubs5.jpg
+Original search: food
+New search: , Category - breakfast_brunch
+
+Correct answer: georgian1.jpg
+Original search: dish
+New search: "breakfast" "side dish" , Category - breakfast_brunch
+
+Correct answer: georgian2.jpg
+Original search: food
+New search: "meat" , Category - bbq
+
+Correct answer: georgian3.jpg
+Original search: dish
+New search: "baked goods" , Category - breakfast_brunch
+
+Correct answer: georgian4.jpg
+Original search: food
+New search: , Category - australian
+
+Correct answer: georgian5.jpg
+Original search: bread
+New search: "bread" "baked goods" , Category - ukrainian
+
+Correct answer: german1.jpg
+Original search: food
+New search: "meat" , Category - german
+
+Correct answer: german2.jpg
+Original search: dish
+New search: , Category - diners
+
+Correct answer: german3.jpg
+Original search: food
+New search: , Category - german
+
+Correct answer: german4.jpg
+Original search: food
+New search: , Category - pakistani
+
+Correct answer: german5.jpg
+Original search: food
+New search: , Category - breakfast_brunch
+
+Correct answer: greek1.jpg
+Original search: appetizer
+New search: "appetizer" , Category - greek
+
+Correct answer: greek2.jpg
+Original search: dish
+New search: , Category - None
+
+Correct answer: greek3.jpg
+Original search: dish
+New search: "salad" "greek salad" , Category - salad
+
+Correct answer: greek4.jpg
+Original search: food
+New search: "dessert" , Category - creperies
+
+Correct answer: greek5.jpg
+Original search: food
+New search: "appetizer" "brunch" , Category - breakfast_brunch
+
+Correct answer: guamanian1.jpg
+Original search: dish
+New search: "fried food" "jollof rice" , Category - guamanian
+
+Correct answer: guamanian2.jpg
+Original search: dish
+New search: , Category - hainan
+
+Correct answer: guamanian3.jpg
+Original search: dish
+New search: "stew" , Category - pakistani
+
+Correct answer: guamanian4.jpg
+Original search: dish
+New search: "leaf vegetable" "vegetarian food" , Category - salad
+
+Correct answer: guamanian5.jpg
+Original search: dish
+New search: "white rice" "steamed rice" , Category - guamanian
+
+Correct answer: hainan1.jpg
+Original search: dish
+New search: "steamed rice" , Category - hainan
+
+Correct answer: hainan2.jpg
+Original search: dish
+New search: "asian food" , Category - cantonese
+
+Correct answer: hainan3.jpg
+Original search: dish
+New search: "asian food" , Category - ramen
+
+Correct answer: hainan4.jpg
+Original search: dish
+New search: , Category - hainan
+
+Correct answer: hainan5.jpg
+Original search: dish
+New search: "steamed rice" , Category - hainan
+
+Correct answer: haitian1.jpg
+Original search: dish
+New search: "curry" "stew" , Category - pakistani
+
+Correct answer: haitian2.jpg
+Original search: dish
+New search: "curry" , Category - pakistani
+
+Correct answer: haitian3.jpg
+Original search: dish
+New search: , Category - japacurry
+
+Correct answer: haitian4.jpg
+Original search: dish
+New search: , Category - noodles
+
+Correct answer: haitian5.jpg
+Original search: food
+New search: , Category - breakfast_brunch
+
+Correct answer: halal1.jpg
+Original search: dish
+New search: , Category - mideastern
+
+Correct answer: halal2.jpg
+Original search: dish
+New search: , Category - pakistani
+
+Correct answer: halal3.jpg
+Original search: dish
+New search: "vegetarian food" , Category - mideastern
+
+Correct answer: halal4.jpg
+Original search: dish
+New search: "vegetarian food" , Category - falafel
+
+Correct answer: halal5.jpg
+Original search: dish
+New search: , Category - hotpot
+
+Correct answer: hawaiian1.jpg
+Original search: dish
+New search: "steamed rice" , Category - hainan
+
+Correct answer: hawaiian2.jpg
+Original search: food
+New search: , Category - breakfast_brunch
+
+Correct answer: hawaiian3.jpg
+Original search: dish
+New search: "vegetarian food" , Category - indonesian
+
+Correct answer: hawaiian4.jpg
+Original search: food
+New search: , Category - dimsum
+
+Correct answer: hawaiian5.jpg
+Original search: food
+New search: "appetizer" , Category - breakfast_brunch
+
+Correct answer: himalayan1.jpg
+Original search: dish
+New search: "noodle soup" "soup" , Category - ramen
+
+Correct answer: himalayan2.jpg
+Original search: dish
+New search: , Category - noodles
+
+Correct answer: himalayan3.jpg
+Original search: dish
+New search: "momo" "appetizer" , Category - breakfast_brunch
+
+Correct answer: himalayan4.jpg
+Original search: dish
+New search: "fried food" , Category - japacurry
+
+Correct answer: himalayan5.jpg
+Original search: dish
+New search: "spaghetti" , Category - pizza
+
+Correct answer: hkcafe1.jpg
+Original search: dish
+New search: "beef chow fun" , Category - hkcafe
+
+Correct answer: hkcafe2.jpg
+Original search: dish
+New search: , Category - hkcafe
+
+Correct answer: hkcafe3.jpg
+Original search: dish
+New search: "appetizer" , Category - hkcafe
+
+Correct answer: hkcafe4.jpg
+Original search: dish
+New search: , Category - hkcafe
+
+Correct answer: hkcafe5.jpg
+Original search: dish
+New search: "noodle" , Category - hkcafe
+
+Correct answer: honduran1.jpg
+Original search: dish
+New search: , Category - nicaraguan
+
+Correct answer: honduran2.jpg
+Original search: totopo
+New search: "totopo" "junk food" "tortilla chip" , Category - honduran
+
+Correct answer: honduran3.jpg
+Original search: dish
+New search: , Category - noodles
+
+Correct answer: honduran4.jpg
+Original search: dish
+New search: , Category - fishnchips
+
+Correct answer: honduran5.jpg
+Original search: naan
+New search: "naan" "flatbread" "roti" , Category - pakistani
+
+Correct answer: hotdog1.jpg
+Original search: hot dog variations
+New search: "hot dog" , Category - hotdog
+
+Correct answer: hotdog2.jpg
+Original search: food
+New search: , Category - hotdog
+
+Correct answer: hotdog3.jpg
+Original search: meal
+New search: "brunch" "breakfast" , Category - diners
+
+Correct answer: hotdog4.jpg
+Original search: food
+New search: "fast food" "appetizer" , Category - hotdog
+
+Correct answer: hotdog5.jpg
+Original search: dish
+New search: "appetizer" , Category - hotdog
+
+Correct answer: hotdogs1.jpg
+Original search: sausage
+New search: "sausage" "hot dog" "thuringian sausage" "knackwurst" , Category - hotdogs
+
+Correct answer: hotdogs2.jpg
+Original search: food
+New search: "finger food" , Category - hotdog
+
+Correct answer: hotdogs3.jpg
+Original search: hot dog variations
+New search: "fast food" "hot dog" "junk food" , Category - hotdogs
+
+Correct answer: hotdogs4.jpg
+Original search: dish
+New search: "appetizer" , Category - hotdog
+
+Correct answer: hotdogs5.jpg
+Original search: food
+New search: "junk food" , Category - hotdog
+
+Correct answer: hotpot1.jpg
+Original search: dish
+New search: , Category - noodles
+
+Correct answer: hotpot2.jpg
+Original search: dish
+New search: "meat" , Category - hotpot
+
+Correct answer: hotpot3.jpg
+Original search: dish
+New search: "asian food" , Category - hotpot
+
+Correct answer: hotpot4.jpg
+Original search: food
+New search: , Category - hotpot
+
+Correct answer: hotpot5.jpg
+Original search: meal
+New search: , Category - breakfast_brunch
+
+Correct answer: hungarian1.jpg
+Original search: dish
+New search: "curry" , Category - bangladeshi
+
+Correct answer: hungarian2.jpg
+Original search: food
+New search: "dessert" , Category - creperies
+
+Correct answer: hungarian3.jpg
+Original search: purple
+New search: "dessert" "ice cream" , Category - creperies
+
+Correct answer: hungarian4.jpg
+Original search: food
+New search: "bakery" , Category - sicilian
+
+Correct answer: hungarian5.jpg
+Original search: food
+New search: , Category - pizza
+
+Correct answer: iberian1.jpg
+Original search: dish
+New search: "vegetarian food" , Category - mideastern
+
+Correct answer: iberian2.jpg
+Original search: dessert
+New search: "dessert" "frozen dessert" , Category - creperies
+
+Correct answer: iberian3.jpg
+Original search: dish
+New search: "chicken breast" , Category - cajun
+
+Correct answer: iberian4.jpg
+Original search: dish
+New search: , Category - noodles
+
+Correct answer: iberian5.jpg
+Original search: food
+New search: "dessert" "fruit" , Category - creperies
+
+Correct answer: indonesian1.jpg
+Original search: dish
+New search: "pad thai" , Category - salad
+
+Correct answer: indonesian2.jpg
+Original search: dish
+New search: , Category - noodles
+
+Correct answer: indonesian3.jpg
+Original search: meal
+New search: "breakfast" , Category - breakfast_brunch
+
+Correct answer: indonesian4.jpg
+Original search: dish
+New search: "leaf vegetable" "vegetarian food" , Category - salad
+
+Correct answer: indonesian5.jpg
+Original search: dish
+New search: "deviled egg" "appetizer" , Category - hotdog
+
+Correct answer: irish1.jpg
+Original search: dish
+New search: "vegetarian food" , Category - cantonese
+
+Correct answer: irish2.jpg
+Original search: drink
+New search: "alcoholic beverage" "negroni" "cocktail" , Category - irish
+
+Correct answer: irish3.jpg
+Original search: table
+New search: , Category - None
+
+Correct answer: irish4.jpg
+Original search: dish
+New search: "soup" , Category - soup
+
+Correct answer: irish5.jpg
+Original search: dish
+New search: , Category - thai
+
+Correct answer: italian1.jpg
+Original search: dish
+New search: "steak" , Category - belgian
+
+Correct answer: italian2.jpg
+Original search: table
+New search: , Category - None
+
+Correct answer: italian3.jpg
+Original search: dessert
+New search: "dessert" "frozen dessert" , Category - creperies
+
+Correct answer: italian4.jpg
+Original search: dish
+New search: , Category - None
+
+Correct answer: italian5.jpg
+Original search: dish
+New search: "fried food" , Category - fishnchips
+
+Correct answer: izakaya1.jpg
+Original search: dish
+New search: "yakitori" , Category - izakaya
+
+Correct answer: izakaya2.jpg
+Original search: dish
+New search: , Category - burmese
+
+Correct answer: izakaya3.jpg
+Original search: dish
+New search: "vegetarian food" , Category - salad
+
+Correct answer: izakaya4.jpg
+Original search: grilled food
+New search: "grilled food" "seafood" , Category - izakaya
+
+Correct answer: izakaya5.jpg
+Original search: cuisine
+New search: "yakitori" , Category - izakaya
+
+Correct answer: japacurry1.jpg
+Original search: dish
+New search: , Category - pakistani
+
+Correct answer: japacurry2.jpg
+Original search: dish
+New search: "gravy" "fried food" , Category - japacurry
+
+Correct answer: japacurry3.jpg
+Original search: dish
+New search: "fried food" "breakfast" , Category - breakfast_brunch
+
+Correct answer: japacurry4.jpg
+Original search: dish
+New search: "soup" "asian soups" , Category - noodles
+
+Correct answer: japacurry5.jpg
+Original search: dish
+New search: "fried food" "general tso's chicken" , Category - japacurry
+
+Correct answer: japanese1.jpg
+Original search: cuisine
+New search: "asian food" , Category - japanese
+
+Correct answer: japanese2.jpg
+Original search: fried food
+New search: "fried food" , Category - fishnchips
+
+Correct answer: japanese3.jpg
+Original search: cuisine
+New search: "japanese cuisine" , Category - japanese
+
+Correct answer: japanese4.jpg
+Original search: dish
+New search: "baked goods" , Category - sandwiches
+
+Correct answer: japanese5.jpg
+Original search: cuisine
+New search: "kobe beef" , Category - japanese
+
+Correct answer: kebab1.jpg
+Original search: dish
+New search: , Category - breakfast_brunch
+
+Correct answer: kebab2.jpg
+Original search: dish
+New search: "vegetarian food" , Category - mideastern
+
+Correct answer: kebab3.jpg
+Original search: dish
+New search: "meat" "steak" , Category - bbq
+
+Correct answer: kebab4.jpg
+Original search: meal
+New search: , Category - breakfast_brunch
+
+Correct answer: kebab5.jpg
+Original search: food
+New search: , Category - cantonese
+
+Correct answer: korean1.jpg
+Original search: dish
+New search: "asian food" , Category - korean
+
+Correct answer: korean2.jpg
+Original search: dish
+New search: , Category - hkcafe
+
+Correct answer: korean3.jpg
+Original search: dish
+New search: , Category - breakfast_brunch
+
+Correct answer: korean4.jpg
+Original search: dish
+New search: "kimchi jjigae" , Category - korean
+
+Correct answer: korean5.jpg
+Original search: meat
+New search: "meat" , Category - bbq
+
+Correct answer: kosher1.jpg
+Original search: dessert
+New search: "dessert" "baked goods" "cider doughnut" "bagel" , Category - kosher
+
+Correct answer: kosher2.jpg
+Original search: dish
+New search: "vegetarian food" , Category - falafel
+
+Correct answer: kosher3.jpg
+Original search: dish
+New search: "couscous" "vegetarian food" , Category - falafel
+
+Correct answer: kosher4.jpg
+Original search: cuisine
+New search: "manakish" , Category - kosher
+
+Correct answer: kosher5.jpg
+Original search: baked goods
+New search: "baked goods" "bakery" , Category - kosher
+
+Correct answer: laotian1.jpg
+Original search: dish
+New search: "soup" , Category - noodles
+
+Correct answer: laotian2.jpg
+Original search: buffet
+New search: "buffet" , Category - buffets
+
+Correct answer: laotian3.jpg
+Original search: food
+New search: "comfort food" , Category - waffle
+
+Correct answer: laotian4.jpg
+Original search: dish
+New search: , Category - bbq
+
+Correct answer: laotian5.jpg
+Original search: meat
+New search: "meat" "kobe beef" , Category - srilankan
+
+Correct answer: latin1.jpg
+Original search: dish
+New search: "fried food" , Category - japacurry
+
+Correct answer: latin2.jpg
+Original search: dish
+New search: , Category - malaysian
+
+Correct answer: latin3.jpg
+Original search: dish
+New search: "european food" , Category - pizza
+
+Correct answer: latin4.jpg
+Original search: dish
+New search: , Category - bbq
+
+Correct answer: latin5.jpg
+Original search: dish
+New search: , Category - filipino
+
+Correct answer: lebanese1.jpg
+Original search: dish
+New search: "kabsa" , Category - guamanian
+
+Correct answer: lebanese2.jpg
+Original search: dish
+New search: "vegetarian food" , Category - salad
+
+Correct answer: lebanese3.jpg
+Original search: dish
+New search: "vegetarian food" , Category - falafel
+
+Correct answer: lebanese4.jpg
+Original search: dish
+New search: "fried food" "pakora" , Category - lebanese
+
+Correct answer: lebanese5.jpg
+Original search: dish
+New search: "vegetarian food" , Category - salad
+
+Correct answer: malaysian1.jpg
+Original search: dish
+New search: "daube" , Category - malaysian
+
+Correct answer: malaysian2.jpg
+Original search: dish
+New search: "vegetarian food" , Category - malaysian
+
+Correct answer: malaysian3.jpg
+Original search: dish
+New search: "curry" "soup" , Category - malaysian
+
+Correct answer: malaysian4.jpg
+Original search: dish
+New search: , Category - burmese
+
+Correct answer: malaysian5.jpg
+Original search: dish
+New search: "spaghetti" , Category - malaysian
+
+Correct answer: mediterranean1.jpg
+Original search: dish
+New search: , Category - hotpot
+
+Correct answer: mediterranean2.jpg
+Original search: dish
+New search: "vegetarian food" , Category - falafel
+
+Correct answer: mediterranean3.jpg
+Original search: food
+New search: , Category - None
+
+Correct answer: mediterranean4.jpg
+Original search: dish
+New search: "vegetarian food" , Category - salad
+
+Correct answer: mediterranean5.jpg
+Original search: dish
+New search: "vegetarian food" , Category - breakfast_brunch
+
+Correct answer: mexican1.jpg
+Original search: dish
+New search: , Category - japacurry
+
+Correct answer: mexican2.jpg
+Original search: food
+New search: "junk food" , Category - hotdog
+
+Correct answer: mexican3.jpg
+Original search: cuisine
+New search: "shawarma" , Category - tacos
+
+Correct answer: mexican4.jpg
+Original search: dish
+New search: "indian cuisine" , Category - pakistani
+
+Correct answer: mexican5.jpg
+Original search: dish
+New search: , Category - tacos
+
+Correct answer: mideastern1.jpg
+Original search: dish
+New search: , Category - mideastern
+
+Correct answer: mideastern2.jpg
+Original search: dish
+New search: "vegetarian food" , Category - mideastern
+
+Correct answer: mideastern3.jpg
+Original search: dish
+New search: "soup" "indian cuisine" , Category - pakistani
+
+Correct answer: mideastern4.jpg
+Original search: dish
+New search: "fried food" , Category - mideastern
+
+Correct answer: mideastern5.jpg
+Original search: meal
+New search: , Category - breakfast_brunch
+
+Correct answer: modern_european1.jpg
+Original search: dish
+New search: "stuffing" , Category - hainan
+
+Correct answer: modern_european2.jpg
+Original search: meal
+New search: "appetizer" , Category - hotdog
+
+Correct answer: modern_european3.jpg
+Original search: food
+New search: , Category - breakfast_brunch
+
+Correct answer: modern_european4.jpg
+Original search: dish
+New search: , Category - breakfast_brunch
+
+Correct answer: modern_european5.jpg
+Original search: food
+New search: , Category - salad
+
+Correct answer: mongolian1.jpg
+Original search: dish
+New search: "asian food" , Category - dimsum
+
+Correct answer: mongolian2.jpg
+Original search: dish
+New search: "hot pot" , Category - hotpot
+
+Correct answer: mongolian3.jpg
+Original search: dish
+New search: "fried food" , Category - noodles
+
+Correct answer: mongolian4.jpg
+Original search: dish
+New search: "jiaozi" , Category - portuguese
+
+Correct answer: mongolian5.jpg
+Original search: food
+New search: , Category - hotpot
+
+Correct answer: moroccan1.jpg
+Original search: dish
+New search: "meat" , Category - bbq
+
+Correct answer: moroccan2.jpg
+Original search: dish
+New search: "vegetarian food" , Category - falafel
+
+Correct answer: moroccan3.jpg
+Original search: food
+New search: , Category - breakfast_brunch
+
+Correct answer: moroccan4.jpg
+Original search: dish
+New search: "leaf vegetable" "vegetarian food" , Category - salad
+
+Correct answer: moroccan5.jpg
+Original search: dish
+New search: "meat" "daube" , Category - moroccan
+
+Correct answer: newamerican1.jpg
+Original search: hamburger
+New search: "hamburger" "fast food" "sandwich" "appetizer" , Category - burgers
+
+Correct answer: newamerican2.jpg
+Original search: dish
+New search: "vegetarian food" , Category - falafel
+
+Correct answer: newamerican3.jpg
+Original search: dessert
+New search: "dessert" "breakfast" "treacle tart" , Category - waffle
+
+Correct answer: newamerican4.jpg
+Original search: food
+New search: "junk food" , Category - hotdog
+
+Correct answer: newamerican5.jpg
+Original search: dessert
+New search: "dessert" , Category - creperies
+
+Correct answer: newmexican1.jpg
+Original search: dish
+New search: , Category - salad
+
+Correct answer: newmexican2.jpg
+Original search: dish
+New search: , Category - newmexican
+
+Correct answer: newmexican3.jpg
+Original search: dish
+New search: "asian food" , Category - salad
+
+Correct answer: newmexican4.jpg
+Original search: dish
+New search: "leaf vegetable" "vegetable" , Category - salad
+
+Correct answer: newmexican5.jpg
+Original search: dish
+New search: , Category - pakistani
+
+Correct answer: nicaraguan1.jpg
+Original search: dish
+New search: , Category - nicaraguan
+
+Correct answer: nicaraguan2.jpg
+Original search: cuisine
+New search: "side dish" "junk food" , Category - fishnchips
+
+Correct answer: nicaraguan3.jpg
+Original search: meal
+New search: , Category - diners
+
+Correct answer: nicaraguan4.jpg
+Original search: meal
+New search: "breakfast" , Category - nicaraguan
+
+Correct answer: nicaraguan5.jpg
+Original search: meal
+New search: "breakfast" , Category - nicaraguan
+
+Correct answer: noodles1.jpg
+Original search: dish
+New search: "asian food" , Category - noodles
+
+Correct answer: noodles2.jpg
+Original search: dish
+New search: "dinuguan" "daube" , Category - noodles
+
+Correct answer: noodles3.jpg
+Original search: dish
+New search: "chinese food" , Category - noodles
+
+Correct answer: noodles4.jpg
+Original search: dish
+New search: , Category - noodles
+
+Correct answer: noodles5.jpg
+Original search: dish
+New search: "soup" "pho" , Category - noodles
+
+Correct answer: pakistani1.jpg
+Original search: dish
+New search: "curry" "indian cuisine" , Category - pakistani
+
+Correct answer: pakistani2.jpg
+Original search: dish
+New search: "indian cuisine" , Category - pakistani
+
+Correct answer: pakistani3.jpg
+Original search: dish
+New search: "curry" "indian cuisine" "gravy" , Category - pakistani
+
+Correct answer: pakistani4.jpg
+Original search: food
+New search: "naan" , Category - pakistani
+
+Correct answer: pakistani5.jpg
+Original search: dish
+New search: "indian cuisine" , Category - pakistani
+
+Correct answer: panasian1.jpg
+Original search: food
+New search: , Category - hotpot
+
+Correct answer: panasian2.jpg
+Original search: dish
+New search: , Category - cantonese
+
+Correct answer: panasian3.jpg
+Original search: dish
+New search: , Category - noodles
+
+Correct answer: panasian4.jpg
+Original search: dish
+New search: "asian food" , Category - noodles
+
+Correct answer: panasian5.jpg
+Original search: dish
+New search: , Category - salad
+
+Correct answer: persian1.jpg
+Original search: food
+New search: "mole sauce" , Category - waffle
+
+Correct answer: persian2.jpg
+Original search: dish
+New search: "rice" , Category - persian
+
+Correct answer: persian3.jpg
+Original search: cuisine
+New search: "meat" , Category - persian
+
+Correct answer: persian4.jpg
+Original search: dish
+New search: "vegetarian food" , Category - falafel
+
+Correct answer: persian5.jpg
+Original search: dish
+New search: , Category - falafel
+
+Correct answer: peruvian1.jpg
+Original search: dish
+New search: "vegetarian food" , Category - pizza
+
+Correct answer: peruvian2.jpg
+Original search: dish
+New search: "fried food" , Category - fishnchips
+
+Correct answer: peruvian3.jpg
+Original search: food
+New search: "dessert" , Category - breakfast_brunch
+
+Correct answer: peruvian4.jpg
+Original search: dish
+New search: "vegetable" "vegetarian food" , Category - salad
+
+Correct answer: peruvian5.jpg
+Original search: fried food
+New search: "fried food" , Category - peruvian
+
+Correct answer: pizza1.jpg
+Original search: pizza
+New search: "pizza" , Category - pizza
+
+Correct answer: pizza2.jpg
+Original search: dish
+New search: "vegetarian food" , Category - falafel
+
+Correct answer: pizza3.jpg
+Original search: dish
+New search: "fried food" , Category - pizza
+
+Correct answer: pizza4.jpg
+Original search: pizza
+New search: "pizza" "pizza cheese" , Category - pizza
+
+Correct answer: pizza5.jpg
+Original search: dish
+New search: "pizza" , Category - pizza
+
+Correct answer: polish1.jpg
+Original search: dish
+New search: , Category - salad
+
+Correct answer: polish2.jpg
+Original search: purple
+New search: , Category - None
+
+Correct answer: polish3.jpg
+Original search: dish
+New search: , Category - diners
+
+Correct answer: polish4.jpg
+Original search: dish
+New search: "side dish" , Category - polish
+
+Correct answer: polish5.jpg
+Original search: meal
+New search: , Category - breakfast_brunch
+
+Correct answer: polynesian1.jpg
+Original search: dish
+New search: "meat" , Category - bbq
+
+Correct answer: polynesian2.jpg
+Original search: dish
+New search: , Category - fishnchips
+
+Correct answer: polynesian3.jpg
+Original search: plumbing fixture
+New search: , Category - None
+
+Correct answer: polynesian4.jpg
+Original search: dish
+New search: , Category - laotian
+
+Correct answer: polynesian5.jpg
+Original search: dish
+New search: , Category - cajun
+
+Correct answer: portuguese1.jpg
+Original search: dish
+New search: "fried food" , Category - cajun
+
+Correct answer: portuguese2.jpg
+Original search: dish
+New search: "fried food" "vegetarian food" , Category - mideastern
+
+Correct answer: portuguese3.jpg
+Original search: food
+New search: , Category - creperies
+
+Correct answer: portuguese4.jpg
+Original search: food
+New search: "appetizer" "dessert" , Category - breakfast_brunch
+
+Correct answer: portuguese5.jpg
+Original search: fried food
+New search: "fried food" "pakora" , Category - portuguese
+
+Correct answer: poutineries1.jpg
+Original search: cuisine
+New search: "vegetarian food" , Category - mideastern
+
+Correct answer: poutineries2.jpg
+Original search: dish
+New search: "dessert" , Category - creperies
+
+Correct answer: poutineries3.jpg
+Original search: food
+New search: , Category - None
+
+Correct answer: poutineries4.jpg
+Original search: food
+New search: "vegetarian food" , Category - falafel
+
+Correct answer: poutineries5.jpg
+Original search: food
+New search: "vegetarian food" , Category - breakfast_brunch
+
+Correct answer: puertorican1.jpg
+Original search: dish
+New search: "curry" , Category - pakistani
+
+Correct answer: puertorican2.jpg
+Original search: dish
+New search: , Category - pakistani
+
+Correct answer: puertorican3.jpg
+Original search: dish
+New search: "side dish" , Category - fishnchips
+
+Correct answer: puertorican4.jpg
+Original search: meal
+New search: , Category - diners
+
+Correct answer: puertorican5.jpg
+Original search: meal
+New search: , Category - nicaraguan
+
+Correct answer: ramen1.jpg
+Original search: dish
+New search: "spaghetti" , Category - ramen
+
+Correct answer: ramen2.jpg
+Original search: dish
+New search: , Category - ramen
+
+Correct answer: ramen3.jpg
+Original search: dish
+New search: "soup" , Category - ramen
+
+Correct answer: ramen4.jpg
+Original search: dish
+New search: "soup" , Category - ramen
+
+Correct answer: ramen5.jpg
+Original search: dish
+New search: "asian food" , Category - ramen
+
+Correct answer: raw_food1.jpg
+Original search: dish
+New search: "salad" "appetizer" , Category - salad
+
+Correct answer: raw_food2.jpg
+Original search: rum ball
+New search: "rum ball" "chocolate truffle" "dessert" "praline" , Category - raw_food
+
+Correct answer: raw_food3.jpg
+Original search: dish
+New search: "sandwich" "vegetarian food" , Category - hotdog
+
+Correct answer: raw_food4.jpg
+Original search: dessert
+New search: "dessert" "ice cream" "frozen dessert" , Category - creperies
+
+Correct answer: raw_food5.jpg
+Original search: dish
+New search: "noodle" "vegetarian food" , Category - noodles
+
+Correct answer: russian1.jpg
+Original search: dish
+New search: "spanakopita" "vegetarian food" , Category - salad
+
+Correct answer: russian2.jpg
+Original search: ingredient
+New search: , Category - None
+
+Correct answer: russian3.jpg
+Original search: caviar
+New search: "caviar" , Category - russian
+
+Correct answer: russian4.jpg
+Original search: powdered sugar
+New search: "powdered sugar" "baked goods" "danish pastry" "puff pastry" , Category - russian
+
+Correct answer: russian5.jpg
+Original search: dish
+New search: "breakfast sandwich" "bread" , Category - sandwiches
+
+Correct answer: salad1.jpg
+Original search: dish
+New search: "salad" , Category - salad
+
+Correct answer: salad2.jpg
+Original search: dish
+New search: "salad" , Category - salad
+
+Correct answer: salad3.jpg
+Original search: dish
+New search: "salad" "vegetable" , Category - salad
+
+Correct answer: salad4.jpg
+Original search: dish
+New search: "salad" , Category - salad
+
+Correct answer: salad5.jpg
+Original search: dish
+New search: "salad" , Category - salad
+
+Correct answer: salvadoran1.jpg
+Original search: dish
+New search: , Category - southern
+
+Correct answer: salvadoran2.jpg
+Original search: dish
+New search: "indian cuisine" "soup" "curry" , Category - pakistani
+
+Correct answer: salvadoran3.jpg
+Original search: meal
+New search: "breakfast" , Category - diners
+
+Correct answer: salvadoran4.jpg
+Original search: dish
+New search: , Category - noodles
+
+Correct answer: salvadoran5.jpg
+Original search: dish
+New search: "full breakfast" , Category - diners
+
+Correct answer: sandwiches1.jpg
+Original search: food
+New search: "sandwich" "cemita" , Category - sandwiches
+
+Correct answer: sandwiches2.jpg
+Original search: baked goods
+New search: "baked goods" "bread" "breakfast sandwich" , Category - sandwiches
+
+Correct answer: sandwiches3.jpg
+Original search: food
+New search: , Category - hotdog
+
+Correct answer: sandwiches4.jpg
+Original search: hamburger
+New search: "hamburger" "fast food" "sandwich" "breakfast sandwich" , Category - burgers
+
+Correct answer: sandwiches5.jpg
+Original search: baked goods
+New search: "baked goods" "american food" , Category - sandwiches
+
+Correct answer: sardinian1.jpg
+Original search: dish
+New search: "pappardelle" , Category - pizza
+
+Correct answer: sardinian2.jpg
+Original search: meal
+New search: "brunch" "appetizer" , Category - breakfast_brunch
+
+Correct answer: sardinian3.jpg
+Original search: food
+New search: "vegetarian food" , Category - breakfast_brunch
+
+Correct answer: sardinian4.jpg
+Original search: dish
+New search: "brunch" , Category - breakfast_brunch
+
+Correct answer: sardinian5.jpg
+Original search: dish
+New search: "seafood" "shrimp" , Category - cajun
+
+Correct answer: scandinavian1.jpg
+Original search: dish
+New search: "meatball" , Category - belgian
+
+Correct answer: scandinavian2.jpg
+Original search: rye bread
+New search: "rye bread" , Category - ukrainian
+
+Correct answer: scandinavian3.jpg
+Original search: dessert
+New search: "dessert" "panna cotta" "frozen dessert" , Category - creperies
+
+Correct answer: scandinavian4.jpg
+Original search: dish
+New search: , Category - breakfast_brunch
+
+Correct answer: scandinavian5.jpg
+Original search: dish
+New search: , Category - diners
+
+Correct answer: scottish1.jpg
+Original search: meal
+New search: "breakfast" "full breakfast" , Category - nicaraguan
+
+Correct answer: scottish2.jpg
+Original search: dish
+New search: , Category - breakfast_brunch
+
+Correct answer: scottish3.jpg
+Original search: food
+New search: , Category - scottish
+
+Correct answer: scottish4.jpg
+Original search: dish
+New search: "fried food" "fish and chips" , Category - fishnchips
+
+Correct answer: scottish5.jpg
+Original search: dish
+New search: "meat" "steak" , Category - steak
+
+Correct answer: seafood1.jpg
+Original search: dish
+New search: "al dente" "spaghetti alle vongole" , Category - seafood
+
+Correct answer: seafood2.jpg
+Original search: dish
+New search: "clam chowder" "soup" , Category - soup
+
+Correct answer: seafood3.jpg
+Original search: dish
+New search: "seafood" "shrimp" , Category - salad
+
+Correct answer: seafood4.jpg
+Original search: al dente
+New search: "al dente" "spaghetti alle vongole" , Category - seafood
+
+Correct answer: seafood5.jpg
+Original search: dish
+New search: "bouillabaisse" , Category - pakistani
+
+Correct answer: shanghainese1.jpg
+Original search: dish
+New search: "xiaolongbao" "dumpling" , Category - dimsum
+
+Correct answer: shanghainese2.jpg
+Original search: dish
+New search: "chow mein" , Category - hkcafe
+
+Correct answer: shanghainese3.jpg
+Original search: dish
+New search: "wonton" "soup" , Category - noodles
+
+Correct answer: shanghainese4.jpg
+Original search: black and white
+New search: , Category - None
+
+Correct answer: shanghainese5.jpg
+Original search: dish
+New search: "appetizer" , Category - hotdog
+
+Correct answer: sicilian1.jpg
+Original search: food
+New search: "vegetable" "vegetarian food" , Category - salad
+
+Correct answer: sicilian2.jpg
+Original search: seafood
+New search: "seafood" , Category - australian
+
+Correct answer: sicilian3.jpg
+Original search: dessert
+New search: "dessert" "brunch" "breakfast" , Category - waffle
+
+Correct answer: sicilian4.jpg
+Original search: dish
+New search: "vegetarian food" , Category - falafel
+
+Correct answer: sicilian5.jpg
+Original search: bakery
+New search: "bakery" , Category - kosher
+
+Correct answer: singaporean1.jpg
+Original search: dish
+New search: "spaghetti" , Category - malaysian
+
+Correct answer: singaporean2.jpg
+Original search: meal
+New search: , Category - diners
+
+Correct answer: singaporean3.jpg
+Original search: dish
+New search: "naan" "roti" , Category - pakistani
+
+Correct answer: singaporean4.jpg
+Original search: dish
+New search: "noodle" "noodle soup" , Category - ramen
+
+Correct answer: singaporean5.jpg
+Original search: dish
+New search: "yakitori" "sate kambing" , Category - izakaya
+
+Correct answer: slovakian1.jpg
+Original search: dish
+New search: "baked goods" , Category - creperies
+
+Correct answer: slovakian2.jpg
+Original search: dish
+New search: "turnip cake" , Category - breakfast_brunch
+
+Correct answer: slovakian3.jpg
+Original search: dish
+New search: "pelmeni" , Category - slovakian
+
+Correct answer: slovakian4.jpg
+Original search: dish
+New search: "meatball" , Category - pakistani
+
+Correct answer: slovakian5.jpg
+Original search: dish
+New search: "appetizer" , Category - breakfast_brunch
+
+Correct answer: soulfood1.jpg
+Original search: dish
+New search: "eggs benedict" "brunch" , Category - breakfast_brunch
+
+Correct answer: soulfood2.jpg
+Original search: dish
+New search: "fried food" "arancini" , Category - soulfood
+
+Correct answer: soulfood3.jpg
+Original search: fried food
+New search: "fried food" "fried chicken" "crispy fried chicken" , Category - soulfood
+
+Correct answer: soulfood4.jpg
+Original search: dish
+New search: "gumbo" , Category - bangladeshi
+
+Correct answer: soulfood5.jpg
+Original search: dish
+New search: "brunch" , Category - breakfast_brunch
+
+Correct answer: soup1.jpg
+Original search: dish
+New search: "soup" "curry" , Category - pakistani
+
+Correct answer: soup2.jpg
+Original search: dish
+New search: "soup" "cock a leekie soup" , Category - soup
+
+Correct answer: soup3.jpg
+Original search: dish
+New search: "clam chowder" , Category - soup
+
+Correct answer: soup4.jpg
+Original search: dish
+New search: "vegetarian food" , Category - soup
+
+Correct answer: soup5.jpg
+Original search: bread
+New search: "bread" "bun" , Category - sandwiches
+
+Correct answer: southern1.jpg
+Original search: dish
+New search: "fried food" "waffle" , Category - waffle
+
+Correct answer: southern2.jpg
+Original search: dish
+New search: , Category - diners
+
+Correct answer: southern3.jpg
+Original search: ice cream
+New search: "ice cream" "dairy product" , Category - creperies
+
+Correct answer: southern4.jpg
+Original search: dish
+New search: "fried food" , Category - breakfast_brunch
+
+Correct answer: southern5.jpg
+Original search: breakfast sandwich
+New search: "breakfast sandwich" "fried food" "hamburger" "baked goods" , Category - southern
+
+Correct answer: spanish1.jpg
+Original search: dish
+New search: , Category - diners
+
+Correct answer: spanish2.jpg
+Original search: food
+New search: "mussel" "seafood" , Category - spanish
+
+Correct answer: spanish3.jpg
+Original search: dessert
+New search: "dessert" , Category - creperies
+
+Correct answer: spanish4.jpg
+Original search: dessert
+New search: "dessert" "frozen dessert" "chocolate" , Category - creperies
+
+Correct answer: spanish5.jpg
+Original search: dish
+New search: , Category - bbq
+
+Correct answer: srilankan1.jpg
+Original search: meat
+New search: "meat" "kobe beef" "venison" "beef tenderloin" , Category - srilankan
+
+Correct answer: srilankan2.jpg
+Original search: dish
+New search: "indian cuisine" , Category - pakistani
+
+Correct answer: srilankan3.jpg
+Original search: food
+New search: , Category - None
+
+Correct answer: srilankan4.jpg
+Original search: dish
+New search: "fried food" , Category - japacurry
+
+Correct answer: srilankan5.jpg
+Original search: meat
+New search: "meat" "steak" "beef tenderloin" "kobe beef" , Category - srilankan
+
+Correct answer: steak1.jpg
+Original search: dish
+New search: "steak" , Category - steak
+
+Correct answer: steak2.jpg
+Original search: dish
+New search: "meat" , Category - steak
+
+Correct answer: steak3.jpg
+Original search: purple
+New search: "dessert" "cake" "chocolate" , Category - creperies
+
+Correct answer: steak4.jpg
+Original search: dish
+New search: "meat" "venison" , Category - steak
+
+Correct answer: steak5.jpg
+Original search: dish
+New search: "beef tenderloin" , Category - steak
+
+Correct answer: sushi1.jpg
+Original search: food
+New search: "sashimi" , Category - sushi
+
+Correct answer: sushi2.jpg
+Original search: cuisine
+New search: "sushi" "japanese cuisine" , Category - sushi
+
+Correct answer: sushi3.jpg
+Original search: drink
+New search: , Category - None
+
+Correct answer: sushi4.jpg
+Original search: food
+New search: , Category - sushi
+
+Correct answer: sushi5.jpg
+Original search: kobe beef
+New search: "kobe beef" "meat" "red meat" , Category - bbq
+
+Correct answer: syrian1.jpg
+Original search: dish
+New search: "vegetarian food" , Category - falafel
+
+Correct answer: syrian2.jpg
+Original search: animal source foods
+New search: , Category - None
+
+Correct answer: syrian3.jpg
+Original search: dish
+New search: "fried food" , Category - syrian
+
+Correct answer: syrian4.jpg
+Original search: dish
+New search: "fried food" , Category - syrian
+
+Correct answer: syrian5.jpg
+Original search: dish
+New search: "seafood" , Category - asianfusion
+
+Correct answer: szechuan1.jpg
+Original search: dish
+New search: "vegetarian food" , Category - dimsum
+
+Correct answer: szechuan2.jpg
+Original search: dish
+New search: "lamian" "noodle soup" , Category - ramen
+
+Correct answer: szechuan3.jpg
+Original search: dish
+New search: "twice cooked pork" , Category - szechuan
+
+Correct answer: szechuan4.jpg
+Original search: meal
+New search: , Category - szechuan
+
+Correct answer: szechuan5.jpg
+Original search: dish
+New search: , Category - szechuan
+
+Correct answer: tacos1.jpg
+Original search: dish
+New search: "korean taco" , Category - tacos
+
+Correct answer: tacos2.jpg
+Original search: food
+New search: "street food" , Category - fishnchips
+
+Correct answer: tacos3.jpg
+Original search: dish
+New search: "shawarma" , Category - tacos
+
+Correct answer: tacos4.jpg
+Original search: dish
+New search: "korean taco" , Category - tacos
+
+Correct answer: tacos5.jpg
+Original search: dish
+New search: "korean taco" , Category - tacos
+
+Correct answer: taiwanese1.jpg
+Original search: dish
+New search: , Category - noodles
+
+Correct answer: taiwanese2.jpg
+Original search: drink
+New search: , Category - None
+
+Correct answer: taiwanese3.jpg
+Original search: dish
+New search: "vegetarian food" , Category - salad
+
+Correct answer: taiwanese4.jpg
+Original search: dish
+New search: "dessert" , Category - creperies
+
+Correct answer: taiwanese5.jpg
+Original search: dish
+New search: "soup" , Category - ramen
+
+Correct answer: taiwanese6.jpg
+Original search: dish
+New search: "fried food" , Category - fishnchips
+
+Correct answer: tapasmallplates1.jpg
+Original search: meal
+New search: "vegetarian food" , Category - breakfast_brunch
+
+Correct answer: tapasmallplates2.jpg
+Original search: dish
+New search: , Category - diners
+
+Correct answer: tapasmallplates3.jpg
+Original search: dessert
+New search: "dessert" , Category - creperies
+
+Correct answer: tapasmallplates4.jpg
+Original search: food
+New search: "appetizer" , Category - greek
+
+Correct answer: tapasmallplates5.jpg
+Original search: dish
+New search: , Category - tacos
+
+Correct answer: teppanyaki1.jpg
+Original search: dish
+New search: "asian food" , Category - teppanyaki
+
+Correct answer: teppanyaki2.jpg
+Original search: dish
+New search: , Category - hotpot
+
+Correct answer: teppanyaki3.jpg
+Original search: dish
+New search: "fried egg" , Category - teppanyaki
+
+Correct answer: teppanyaki4.jpg
+Original search: naporitan
+New search: "naporitan" "smoked salmon" , Category - seafood
+
+Correct answer: teppanyaki5.jpg
+Original search: steamed rice
+New search: "steamed rice" "white rice" , Category - hainan
+
+Correct answer: tex-mex1.jpg
+Original search: dish
+New search: "vegetarian food" , Category - mideastern
+
+Correct answer: tex-mex2.jpg
+Original search: dish
+New search: "korean taco" , Category - tacos
+
+Correct answer: tex-mex3.jpg
+Original search: dish
+New search: , Category - breakfast_brunch
+
+Correct answer: tex-mex4.jpg
+Original search: meal
+New search: "brunch" "breakfast" , Category - diners
+
+Correct answer: tex-mex5.jpg
+Original search: dish
+New search: "soup" , Category - soup
+
+Correct answer: thai1.jpg
+Original search: dish
+New search: "meat" , Category - thai
+
+Correct answer: thai2.jpg
+Original search: dish
+New search: "daube" , Category - thai
+
+Correct answer: thai3.jpg
+Original search: dish
+New search: "fried food" , Category - japacurry
+
+Correct answer: thai4.jpg
+Original search: dish
+New search: , Category - noodles
+
+Correct answer: thai5.jpg
+Original search: dish
+New search: "vegetarian food" "appetizer" , Category - salad
+
+Correct answer: tradamerican1.jpg
+Original search: dish
+New search: "fried food" , Category - fishnchips
+
+Correct answer: tradamerican2.jpg
+Original search: breakfast
+New search: "breakfast" "breakfast sandwich" , Category - breakfast_brunch
+
+Correct answer: tradamerican3.jpg
+Original search: dish
+New search: "pancake" , Category - diners
+
+Correct answer: tradamerican4.jpg
+Original search: dish
+New search: "fried food" , Category - mideastern
+
+Correct answer: tradamerican5.jpg
+Original search: dish
+New search: "appetizer" , Category - cajun
+
+Correct answer: trinidadian1.jpg
+Original search: dish
+New search: "philippine adobo" , Category - trinidadian
+
+Correct answer: trinidadian2.jpg
+Original search: dish
+New search: "vegetarian food" , Category - noodles
+
+Correct answer: trinidadian3.jpg
+Original search: dish
+New search: "vegetarian food" , Category - falafel
+
+Correct answer: trinidadian4.jpg
+Original search: dish
+New search: , Category - fishnchips
+
+Correct answer: trinidadian5.jpg
+Original search: food
+New search: "fried food" , Category - fishnchips
+
+Correct answer: turkish1.jpg
+Original search: food
+New search: "seafood" , Category - cajun
+
+Correct answer: turkish2.jpg
+Original search: dish
+New search: "pizza cheese" , Category - pizza
+
+Correct answer: turkish3.jpg
+Original search: dessert
+New search: "dessert" , Category - creperies
+
+Correct answer: turkish4.jpg
+Original search: dish
+New search: "seafood" "shrimp" , Category - noodles
+
+Correct answer: turkish5.jpg
+Original search: meat
+New search: "meat" "appetizer" , Category - basque
+
+Correct answer: tuscan1.jpg
+Original search: pizza
+New search: "pizza" , Category - pizza
+
+Correct answer: tuscan2.jpg
+Original search: food
+New search: "appetizer" , Category - salad
+
+Correct answer: tuscan3.jpg
+Original search: tableware
+New search: , Category - southern
+
+Correct answer: tuscan4.jpg
+Original search: pizza
+New search: "pizza" , Category - pizza
+
+Correct answer: tuscan5.jpg
+Original search: dessert
+New search: "dessert" "frozen dessert" , Category - creperies
+
+Correct answer: ukrainian1.jpg
+Original search: dish
+New search: "pelmeni" , Category - cantonese
+
+Correct answer: ukrainian2.jpg
+Original search: dish
+New search: "harissa" "chili oil" , Category - ukrainian
+
+Correct answer: ukrainian3.jpg
+Original search: bread
+New search: "bread" "baked goods" "loaf" , Category - ukrainian
+
+Correct answer: ukrainian4.jpg
+Original search: bread
+New search: "bread" "baked goods" "rye bread" "bun" , Category - ukrainian
+
+Correct answer: ukrainian5.jpg
+Original search: dish
+New search: , Category - ramen
+
+Correct answer: uzbek1.jpg
+Original search: dish
+New search: , Category - bbq
+
+Correct answer: uzbek2.jpg
+Original search: dish
+New search: "soup" "dessert" , Category - creperies
+
+Correct answer: uzbek3.jpg
+Original search: dish
+New search: "baked goods" "empanada" , Category - uzbek
+
+Correct answer: uzbek4.jpg
+Original search: food
+New search: "bakery" "pastry" "finger food" , Category - sicilian
+
+Correct answer: uzbek5.jpg
+Original search: meal
+New search: , Category - diners
+
+Correct answer: vegan1.jpg
+Original search: strawberries
+New search: "strawberries" "strawberry" "vegetarian food" , Category - vegan
+
+Correct answer: vegan2.jpg
+Original search: food
+New search: "brunch" , Category - breakfast_brunch
+
+Correct answer: vegan3.jpg
+Original search: dish
+New search: "vegetarian food" , Category - breakfast_brunch
+
+Correct answer: vegan4.jpg
+Original search: dish
+New search: "vegetarian food" "breakfast cereal" , Category - breakfast_brunch
+
+Correct answer: vegan5.jpg
+Original search: dessert
+New search: "dessert" , Category - creperies
+
+Correct answer: vegetarian1.jpg
+Original search: dish
+New search: "vegetable" "salad" , Category - salad
+
+Correct answer: vegetarian2.jpg
+Original search: vegetable
+New search: "vegetable" "vegetarian food" , Category - salad
+
+Correct answer: vegetarian3.jpg
+Original search: cuisine
+New search: "vegetarian food" , Category - vegetarian
+
+Correct answer: vegetarian4.jpg
+Original search: dish
+New search: "fried food" , Category - hkcafe
+
+Correct answer: vegetarian5.jpg
+Original search: gimbap
+New search: "gimbap" , Category - vegetarian
+
+Correct answer: vegetarian6.jpg
+Original search: food
+New search: "noodle" , Category - malaysian
+
+Correct answer: venezuelan1.jpg
+Original search: dish
+New search: , Category - breakfast_brunch
+
+Correct answer: venezuelan2.jpg
+Original search: dish
+New search: "vegetarian food" , Category - falafel
+
+Correct answer: venezuelan3.jpg
+Original search: dish
+New search: , Category - bbq
+
+Correct answer: venezuelan4.jpg
+Original search: al dente
+New search: "al dente" , Category - seafood
+
+Correct answer: venezuelan5.jpg
+Original search: food
+New search: "meat" "brunch" , Category - breakfast_brunch
+
+Correct answer: vietnamese1.jpg
+Original search: dish
+New search: "soup" , Category - noodles
+
+Correct answer: vietnamese2.jpg
+Original search: dish
+New search: "pho" "soup" , Category - vietnamese
+
+Correct answer: vietnamese3.jpg
+Original search: dish
+New search: , Category - indonesian
+
+Correct answer: vietnamese4.jpg
+Original search: dish
+New search: "vegetarian food" , Category - breakfast_brunch
+
+Correct answer: vietnamese5.jpg
+Original search: dish
+New search: , Category - noodles
+
+Correct answer: vietnamese6.jpg
+Original search: cuisine
+New search: , Category - dimsum
+
+Correct answer: waffle1.jpg
+Original search: waffle
+New search: "waffle" "belgian waffle" , Category - waffle
+
+Correct answer: waffle2.jpg
+Original search: waffle
+New search: "waffle" "belgian waffle" , Category - waffle
+
+Correct answer: waffle3.jpg
+Original search: whipped cream
+New search: "whipped cream" "dessert" "cream" "belgian waffle" , Category - waffle
+
+Correct answer: waffle4.jpg
+Original search: belgian waffle
+New search: "belgian waffle" "breakfast" , Category - waffle
+
+Correct answer: waffle5.jpg
+Original search: fried food
+New search: "fried food" , Category - diners
+
+Correct answer: wraps1.jpg
+Original search: dish
+New search: "mission burrito" , Category - tacos
+
+Correct answer: wraps2.jpg
+Original search: food
+New search: , Category - tacos
+
+Correct answer: wraps3.jpg
+Original search: dish
+New search: "vegetarian food" , Category - falafel
+
+Correct answer: wraps4.jpg
+Original search: dish
+New search: "korean taco" , Category - tacos
+
+Correct answer: wraps5.jpg
+Original search: vegetable
+New search: "vegetable" "vegetarian food" , Category - salad
+

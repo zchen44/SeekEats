@@ -14,6 +14,7 @@ def pipeline(file_path):
         Return:
             Details about restaurants matching that image
     """
+    print("Scanning %s" % (file_path))
     # Open list of food related words
     with open(os.path.join(TESTS, 'food_words.txt'), 'r') as fi:
         words = fi.read().splitlines()
@@ -26,22 +27,31 @@ def pipeline(file_path):
     for tag in {k: terms[k] for k in list(terms)[:4]}: # Too many tags makes the API break
         if (tag in words) and (terms[tag] > 0.52) : # The exact confidence can be determined later
             string_tag += "\"" + tag + "\" "
+    print()
     
     # Find the category for the tags
     confidences = category_match(terms)
-    best_category = ''
-    confidence = 0.2 # Minimum threshhold of the category confidence
+    best_category = 'None'
+    confidence = 0.01 # Minimum threshhold of the category confidence
     for category in confidences:
         if confidences[category] > confidence:
             confidence = confidences[category]
             best_category = category
-    print(confidences)
+
+    # DEBUG: Before and after
+    file_parts = file_path.split('\\')
+
+    with open(os.path.join(TESTS, 'before_after.txt'), 'a') as fi:
+        fi.write("Correct answer: " + file_parts[len(file_parts) - 1] + "\n")
+        fi.write("Original search: " + (list(terms)[0]) + "\n")
+        fi.write("New search: " + string_tag + ", Category - " + best_category + "\n\n")
+        fi.close()
 
     # Find the businesses and list their details
-    if not best_category:
-        businesses = query_api(term = string_tag)
-    else:
-        businesses = query_api(term = string_tag, categories = best_category)
-    for restaurant in businesses:
-        print(restaurant['name'])
-        print(restaurant['location']['address1'])
+    #if not best_category:
+    #    businesses = query_api(term = string_tag)
+    #else:
+    #    businesses = query_api(term = string_tag, categories = best_category)
+    #for restaurant in businesses:
+    #    print(restaurant['name'])
+    #    print(restaurant['location']['address1'])
