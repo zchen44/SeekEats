@@ -33,11 +33,6 @@ def gcp_labels(file_path):
     response = client.label_detection(image=image)
     labels = response.label_annotations
 
-    # Print labels
-    #print('Labels:')
-    #for label in labels:  
-    #    print(label.description)
-
     # Create dictionary of labels and confidence levels
     results = {}
     for label in labels:
@@ -54,30 +49,57 @@ def image_labels():
         Return:
             None, the information is written to files.
     """
-    master = []
+    raw_tag_conf()
+    dict_to_total()
+    
+
+def raw_tag_conf():
+    """ Takes image files and write the tags and confidence values to a json file.
+
+        Arguments:
+            None,the folders to be scanned are hardcoded.
+        Return:
+            None, the information is written to files.
+    """
+
     file_tags = {}
     for folder in os.listdir(os.path.join(ROOT, 'yelp_photos')):
         for file_name in os.listdir(os.path.join(ROOT, 'yelp_photos', folder)):
             if file_name.endswith(".jpg") or file_name.endswith(".png"): 
                 dict = gcp_labels(os.path.join(ROOT, 'yelp_photos', folder, file_name))
                 file_tags[file_name] = dict
-                keylist = dict.keys() 
-                master += keylist
-    #for file_name in os.listdir(os.path.join(ROOT, 'tests')):
+                 #for file_name in os.listdir(os.path.join(ROOT, 'tests')):
     #        if file_name.endswith(".jpg") or file_name.endswith(".png"): 
     #            dict = gcp_labels(os.path.join(TESTS, file_name))
     #            file_tags[file_name] = dict
     #            keylist = dict.keys()
     #            master += keylist
     #            os.rename(os.path.join(TESTS, file_name), os.path.join(TESTS, "scanned_pictures", file_name)) # Move scanned picture to another folder
-
-    master = list(set(master)) # list to set to remove duplicates
-    if not master:
-        return
     with open(os.path.join(TESTS, "file_tag_dict.txt"), 'w') as fi:
         fi.write(json.dumps(file_tags)) # json to allow writing to a file
         fi.close()
+
+def dict_to_total():
+    """ Takes the json file with tags and confidence values and writes the tags to a file.
+
+        Arguments: 
+            None, the folders to be scanned are hardcoded.
+        Return: 
+            None, the information is written to files.
+    """
+
+    raw = {}
+    total_list = []
+    with open(os.path.join(TESTS, "file_tag_dict.txt"), 'r') as fi:
+        raw = json.load(fi)
+        fi.close()
+    for dict in raw:
+        for tag in raw[dict]:
+            total_list.append(tag)
+    total_list = list(set(total_list)) # list to set to remove duplicates
+    if not total_list:
+        return
     with open(os.path.join(TESTS, "total_tags.txt") , 'wb') as fi:
-        for tag in master:
+        for tag in total_list:
             fi.write((tag + '\n').encode('utf8')) # A few tags have non-ASCII characters
         fi.close()

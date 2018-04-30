@@ -2670,3 +2670,11 @@ Correct answer: wraps5.jpg
 Original search: vegetable
 New search: "vegetable" "vegetarian food" , Category - salad
 
+Correct answer: burger1.jpg
+Original search: hamburger
+New search: "hamburger" "fast food" "veggie burger" "sandwich" , Category - burgers
+
+Correct answer: burger1.jpg
+Original search: hamburger
+New search: "hamburger" "fast food" "veggie burger" "sandwich" , Category - burgers
+

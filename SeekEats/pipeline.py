@@ -14,13 +14,44 @@ def pipeline(file_path):
         Return:
             Details about restaurants matching that image
     """
+
+    two_list = tag_collection(file_path)
+    
+
     print("Scanning %s" % (file_path))
     # Open list of food related words
+    
+
+    best_cat = best_category(two_list[0])
+
+    # DEBUG: Before and after
+    #file_parts = file_path.split('\\')
+
+    #with open(os.path.join(TESTS, 'before_after.txt'), 'a') as fi:
+    #    fi.write("Correct answer: " + file_parts[len(file_parts) - 1] + "\n")
+    #    fi.write("Original search: " + (list(two_list[0])[0]) + "\n")
+    #    fi.write("New search: " + two_list[1] + ", Category - " + best_cat + "\n\n")
+    #    fi.close()
+
+    # Find the businesses and list their details
+    if not best_category:
+        businesses = query_api(term = string_tag)
+    else:
+        businesses = query_api(term = two_list[1], categories = best_cat)
+    for restaurant in businesses:
+        print(restaurant['name'])
+        print(restaurant['location']['address1'])
+
+def tag_collection(file_path):
+    """ Takes the tags from the picture file and runs it through the google cloud platform API, it returns to us a list of tags based on confidence values
+
+        Arguments: file_path 
+        Return: terms
+    """
+    # Get the tags for the picture and 
     with open(os.path.join(TESTS, 'food_words.txt'), 'r') as fi:
         words = fi.read().splitlines()
         fi.close()
-
-    # Get the tags for the picture and 
     terms = gcp_labels(file_path)
     #string_tag += list(terms.keys())
     string_tag = '' 
@@ -28,30 +59,20 @@ def pipeline(file_path):
         if (tag in words) and (terms[tag] > 0.52) : # The exact confidence can be determined later
             string_tag += "\"" + tag + "\" "
     print()
+    two_list = [terms, string_tag]
+    return two_list
+def best_category(terms):
+    """ Takes our dictionary of categories and confidence values and tells us our best category
+
+        Argument: terms
+        Return: best_category
+    """
     
-    # Find the category for the tags
     confidences = category_match(terms)
     best_category = 'None'
     confidence = 0.01 # Minimum threshhold of the category confidence
     for category in confidences:
         if confidences[category] > confidence:
             confidence = confidences[category]
-            best_category = category
-
-    # DEBUG: Before and after
-    file_parts = file_path.split('\\')
-
-    with open(os.path.join(TESTS, 'before_after.txt'), 'a') as fi:
-        fi.write("Correct answer: " + file_parts[len(file_parts) - 1] + "\n")
-        fi.write("Original search: " + (list(terms)[0]) + "\n")
-        fi.write("New search: " + string_tag + ", Category - " + best_category + "\n\n")
-        fi.close()
-
-    # Find the businesses and list their details
-    #if not best_category:
-    #    businesses = query_api(term = string_tag)
-    #else:
-    #    businesses = query_api(term = string_tag, categories = best_category)
-    #for restaurant in businesses:
-    #    print(restaurant['name'])
-    #    print(restaurant['location']['address1'])
+            best_cat = category
+    return best_cat
