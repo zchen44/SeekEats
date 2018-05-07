@@ -1,4 +1,5 @@
 import os 
+import pprint
 from cloud_vision import gcp_labels
 from yelpapi import query_api 
 from tag_math import category_match
@@ -16,12 +17,6 @@ def pipeline(file_path):
     """
 
     two_list = tag_collection(file_path)
-    
-
-    print("Scanning %s" % (file_path))
-    # Open list of food related words
-    
-
     best_cat = best_category(two_list[0])
 
     # DEBUG: Before and after
@@ -38,34 +33,42 @@ def pipeline(file_path):
         businesses = query_api(term = string_tag)
     else:
         businesses = query_api(term = two_list[1], categories = best_cat)
+        print("Restaurants that serve", best_cat)
+    
     for restaurant in businesses:
         print(restaurant['name'])
-        print(restaurant['location']['address1'])
+        print(restaurant['location']['address1'], "\n")
 
 def tag_collection(file_path):
     """ Takes the tags from the picture file and runs it through the google cloud platform API, it returns to us a list of tags based on confidence values
 
-        Arguments: file_path 
-        Return: terms
+        Arguments: 
+            file_path <string> - The file path of the picture to be analyzed.
+        Return:
+            A list containing the full list of terms and a smaller list 
     """
-    # Get the tags for the picture and 
+    # Open list of food related words and get the full list of terms
     with open(os.path.join(TESTS, 'food_words.txt'), 'r') as fi:
         words = fi.read().splitlines()
         fi.close()
     terms = gcp_labels(file_path)
-    #string_tag += list(terms.keys())
+
+    # Get the terms that are food-related
     string_tag = '' 
+    #string_tag += list(terms.keys())
     for tag in {k: terms[k] for k in list(terms)[:4]}: # Too many tags makes the API break
         if (tag in words) and (terms[tag] > 0.52) : # The exact confidence can be determined later
             string_tag += "\"" + tag + "\" "
-    print()
     two_list = [terms, string_tag]
     return two_list
+
 def best_category(terms):
     """ Takes our dictionary of categories and confidence values and tells us our best category
 
-        Argument: terms
-        Return: best_category
+        Argument: 
+            terms <string> - A dictionary of terms and confidence values for a given picture
+        Return: 
+            A string with the best category for the list of terms
     """
     
     confidences = category_match(terms)

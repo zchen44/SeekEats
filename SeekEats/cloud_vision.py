@@ -40,7 +40,7 @@ def gcp_labels(file_path):
 
     return results
 
-  # Get the labels for the images in the folder
+# Get the labels for the images in the folder
 def image_labels():
     """Scans all pictures in the  Returns a dictionary of files and the tags associated with it.
     
@@ -57,7 +57,7 @@ def raw_tag_conf():
     """ Takes image files and write the tags and confidence values to a json file.
 
         Arguments:
-            None,the folders to be scanned are hardcoded.
+            None, the folders to be scanned are hardcoded.
         Return:
             None, the information is written to files.
     """
@@ -68,13 +68,17 @@ def raw_tag_conf():
             if file_name.endswith(".jpg") or file_name.endswith(".png"): 
                 dict = gcp_labels(os.path.join(ROOT, 'yelp_photos', folder, file_name))
                 file_tags[file_name] = dict
-                 #for file_name in os.listdir(os.path.join(ROOT, 'tests')):
+                #for file_name in os.listdir(os.path.join(ROOT, 'tests')):
+
+    # DEBUG: Scan the pictures in test folder instead of the yelp photos
     #        if file_name.endswith(".jpg") or file_name.endswith(".png"): 
     #            dict = gcp_labels(os.path.join(TESTS, file_name))
     #            file_tags[file_name] = dict
     #            keylist = dict.keys()
     #            master += keylist
     #            os.rename(os.path.join(TESTS, file_name), os.path.join(TESTS, "scanned_pictures", file_name)) # Move scanned picture to another folder
+
+    # Write raw results to file
     with open(os.path.join(TESTS, "file_tag_dict.txt"), 'w') as fi:
         fi.write(json.dumps(file_tags)) # json to allow writing to a file
         fi.close()
